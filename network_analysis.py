@@ -674,6 +674,20 @@ def main():
         # 8) LOUVAIN (ABS WEIGHTS) + INTERNAL SENTIMENT PLOT
         #-----------------------------------------------------------------------
         louvain_part = run_louvain_with_abs_weights(full_graph)
+        
+        # Save them to CSV for reference
+        def save_partition(partition_dict, out_csv):
+            comm_dict = defaultdict(list)
+            for node, cid in partition_dict.items():
+                comm_dict[cid].append(node)
+            with open(out_csv, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.writer(f)
+                writer.writerow(["community_id", "nodes"])
+                for cid, nodes_ in comm_dict.items():
+                    writer.writerow([cid, list(nodes_)])
+
+        save_partition(louvain_part, os.path.join("analysed_topic_data", "louvain_abs_weights_full.csv"))
+            
         int_sent = new_cluster_sentiment(full_graph, louvain_part)
         out_sent_plot = os.path.join(OUTPUT_DIR, "louvain_communities_internal_sentiment_full.png")
         plot_communities_internal_sentiment(int_sent, out_sent_plot)
