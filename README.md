@@ -1,8 +1,6 @@
 # ComplexNetworksCodebase
 
-- This repository contains a single Python script, **`network_analysis.py`**, which consolidates various network analysis functions.
-
-- Results are saved inside folder called analysed_topic_data and the graphs are saved in topic_topic_graph.
+This repository contains 2 Python scripts, **`extract_data.py` ** which collects the data using the Perigon API and **`network_analysis.py`**, which consolidates various network analysis functions.
 
 ## Requirements
 
@@ -20,4 +18,19 @@ pip install networkx matplotlib numpy scikit-learn python-louvain
 
 ## Usage
 
+### Extracting data
+
+1. Sign up with Perigon (https://www.perigon.io)
+2. Get your unique API key
+3. Edit line 8 with your API key
+4. Edit line 72 to select the year for which you wish to extract data
+
+``` python3 extract_data.py ```
+
+- Articles are extract for each 5 day interval across the chosen year and results are saved in folder `articles_by_year`.
+
+### Running network analysis
+
 ``` python3 network_analysis.py ```
+
+- Results are saved inside folder called `analysed_topic_data` and the graphs are saved in `topic_topic_graph`.
