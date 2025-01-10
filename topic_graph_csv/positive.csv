@@ -1,0 +1,1218 @@
+Topic1,Topic2,Edge Weight
+TV,The Bachelor,1
+IBM,NYC,2
+IBM,Japan,3
+Daimler,IBM,1
+Bitcoin,Cryptocurrency,5
+Bitcoin,IBM,1
+Cryptocurrency,IBM,2
+IBM,North Carolina,1
+IBM,Raleigh,1
+North Carolina,Raleigh,2
+IBM,Startups,4
+5G,AI,2
+Entrepreneur,Startups,1
+Academia,Entrepreneur,1
+Entrepreneur,NYC,1
+Academia,Startups,3
+NYC,Startups,3
+Academia,NYC,1
+NASA,Startups,1
+Space,Startups,2
+Google,Startups,1
+SpaceX,Startups,1
+NASA,Space,14
+Google,NASA,3
+NASA,SpaceX,2
+Google,Space,3
+Space,SpaceX,2
+Google,SpaceX,1
+Israel,Startups,2
+Microsoft,NYC,1
+AI,Google,5
+Google,IBM,7
+IBM,India,1
+Google,India,1
+Airlines,IBM,2
+Aviation,IBM,2
+Delta Air Lines,IBM,1
+Airlines,Aviation,12
+Airlines,Delta Air Lines,1
+Aviation,Delta Air Lines,1
+Academia,Football,9
+Basketball,Football,1
+Football,NBA,1
+Academia,Basketball,4
+Academia,NBA,1
+Basketball,NBA,20
+Academia,IBM,12
+Business Leaders,IBM,3
+Florida,Startups,1
+Miami,Startups,1
+Florida,Miami,2
+Data,United Kingdom,1
+AI,IBM,10
+Coinbase,Cryptocurrency,1
+Business Leaders,New York,2
+AI,Microsoft,2
+IPO,Markets,5
+Academia,Canada,1
+Academia,Montreal,1
+Canada,Montreal,1
+AI,India,3
+Security,Security Breach,13
+Germany,IBM,2
+Bill Gates,Business Leaders,1
+Bill Gates,Gaming,1
+Bill Gates,Cyberpunk 2077,1
+Business Leaders,Gaming,1
+Business Leaders,Cyberpunk 2077,1
+Cyberpunk 2077,Gaming,2
+JPMorgan,Markets,3
+Business Leaders,NYC,3
+Israel,Space,1
+European Union,IBM,1
+European Union,Germany,2
+United Kingdom,Venture Capital,1
+AI,France,1
+Amazon,IBM,3
+Amazon Prime,IBM,3
+IBM,Microsoft,6
+Amazon,Amazon Prime,7
+Amazon,Microsoft,4
+Amazon Prime,Microsoft,4
+Football,NFL,37
+Football,New England Patriots,1
+NFL,New England Patriots,1
+AI,Spain,1
+5G,Samsung,1
+AI,Singapore,1
+Business Leaders,Cryptocurrency,3
+Cryptocurrency,New York,1
+NYC,New York,3
+New York,Venture Capital,1
+NYC,Venture Capital,3
+Bose,Electronics,1
+Bose,Podcasts,1
+Electronics,Podcasts,1
+Electronics,Samsung,4
+Cryptocurrency,NYC,2
+Amazon,NYC,1
+Academia,Shell,1
+Academia,Oil & Gas,1
+Oil & Gas,Shell,1
+Movies,Ryan Gosling,1
+Coronavirus,Private Equity,1
+Taiwan,Wildlife,1
+New York,Wyoming,1
+Football,Iowa,1
+Basketball,Maryland,1
+Food & Drink,Sweden,1
+Data,Social Issues,1
+Colorado,Football,1
+Netflix,TV,4
+LGBTQ,Social Issues,2
+Halsey,Juice Wrld,1
+Business Leaders,Evan Spiegel,1
+Business Leaders,Florida,1
+Business Leaders,Orlando,1
+Business Leaders,Orlando Bloom,1
+Evan Spiegel,Florida,1
+Evan Spiegel,Orlando,1
+Evan Spiegel,Orlando Bloom,1
+Florida,Orlando,3
+Florida,Orlando Bloom,1
+Orlando,Orlando Bloom,1
+Alabama,Football,3
+Colorado,Olympics,1
+Lebron James,Sports Figures,2
+Cristiano Ronaldo,Sports Figures,3
+Anthony Davis,Basketball,1
+Basketball,Sports Figures,4
+Basketball,Los Angeles Lakers,2
+Anthony Davis,Sports Figures,1
+Anthony Davis,Los Angeles Lakers,1
+Anthony Davis,NBA,1
+Los Angeles Lakers,Sports Figures,1
+NBA,Sports Figures,3
+Los Angeles Lakers,NBA,2
+Movies,Netflix,1
+TV,United Kingdom,1
+Music,Taylor Swift,1
+Academia,USC,3
+Football,USC,2
+Football,Michigan,2
+LGBTQ,Movies,1
+College Sports,Football,6
+College Sports,Maryland,1
+Football,Maryland,2
+Basketball,Michigan,1
+Country Music,Music,1
+Music,Shania Twain,1
+Drake,Music,1
+Country Music,Shania Twain,1
+Country Music,Drake,1
+Drake,Shania Twain,1
+Kelly Clarkson,TV,1
+Chrissy Teigen,John Legend,1
+Amazon,New York,1
+Football,Pennsylvania State University,2
+Chadwick Boseman,Movies,1
+Music,TV,2
+Netflix,Stranger Things,2
+Stranger Things,TV,2
+Academia,College Sports,3
+Facebook,YouTube,1
+Coronavirus,Movies,1
+Media,Movies,1
+9/11,TV,1
+Snoop Dogg,TV,1
+Black-ish,TV,1
+Music,New York,1
+Apple,TV,4
+HBO,TV,2
+Academia,Music,1
+Music,Sony,1
+Academia,Sony,1
+Cobra Kai,TV,3
+Coronavirus,Music,2
+Movies,Spain,1
+Movies,United Kingdom,1
+HGTV,TV,1
+Documentaries,Movies,1
+Music,Spotify,1
+Football,Missouri,2
+Football,Twitter,1
+Football,Tweets,1
+Missouri,Twitter,1
+Missouri,Tweets,1
+Tweets,Twitter,2
+Florida,Football,3
+Football,Texas,4
+Florida,Texas,1
+Documentaries,Media,1
+Football,Johnny Manziel,1
+Football,Sports Figures,9
+Johnny Manziel,Sports Figures,1
+Cleveland,NFL,1
+Cleveland Browns,NFL,1
+NFL,Ohio,1
+Indianapolis Colts,NFL,1
+Indiana,NFL,1
+Indianapolis,NFL,1
+Cleveland,Cleveland Browns,1
+Cleveland,Football,1
+Cleveland,Ohio,2
+Cleveland,Indianapolis Colts,1
+Cleveland,Indiana,1
+Cleveland,Indianapolis,1
+Cleveland Browns,Football,1
+Cleveland Browns,Ohio,1
+Cleveland Browns,Indianapolis Colts,1
+Cleveland Browns,Indiana,1
+Cleveland Browns,Indianapolis,1
+Football,Ohio,1
+Football,Indianapolis Colts,1
+Football,Indiana,1
+Football,Indianapolis,1
+Indianapolis Colts,Ohio,1
+Indiana,Ohio,1
+Indianapolis,Ohio,1
+Indiana,Indianapolis Colts,1
+Indianapolis,Indianapolis Colts,1
+Indiana,Indianapolis,1
+Game of Thrones,TV,2
+HBO,Movies,1
+Movies,TV,1
+Joe Biden,World Series,1
+Greece,Movies,1
+Asia,Movies,3
+Japan,Movies,1
+Asia,Japan,1
+Dave Chappelle,TV,1
+Saturday Night Live,TV,2
+Dave Chappelle,Saturday Night Live,1
+TV,Warner Bros,1
+Movies,Taiwan,1
+Asia,Taiwan,1
+Buffalo Bills,NFL,2
+Josh Allen,NFL,3
+NFL,Sports Figures,5
+Buffalo Bills,Football,2
+Buffalo Bills,Josh Allen,1
+Buffalo Bills,Sports Figures,1
+Football,Josh Allen,3
+Josh Allen,Sports Figures,3
+BTS,TV,1
+Disney,TV,1
+Katy Perry,TV,1
+BTS,Disney,1
+BTS,Katy Perry,1
+Disney,Katy Perry,1
+India,Movies,1
+Asia,India,1
+Business Leaders,Netflix,1
+Elvis Presley,Harry Styles,1
+Boxing,Roy Jones Jr.,1
+Boxing,Mike Tyson,1
+Boxing,Sports Figures,1
+Mike Tyson,Roy Jones Jr.,1
+Roy Jones Jr.,Sports Figures,1
+Mike Tyson,Sports Figures,1
+Holidays,Thanksgiving,1
+Christianity,Coronavirus,1
+European Football,FIFA,2
+European Football,Gaming,1
+European Football,PS5,1
+European Football,Xbox,1
+European Football,Microsoft,1
+FIFA,Gaming,1
+FIFA,PS5,1
+FIFA,Xbox,1
+FIFA,Microsoft,1
+Gaming,PS5,6
+Gaming,Xbox,6
+Gaming,Microsoft,5
+PS5,Xbox,3
+Microsoft,PS5,3
+Microsoft,Xbox,5
+Drew Brees,Sports Figures,1
+Drew Brees,Football,1
+Drew Brees,NFL,1
+Drew Brees,San Francisco,1
+Drew Brees,San Francisco 49ers,1
+Drew Brees,Josh Allen,1
+San Francisco,Sports Figures,1
+San Francisco 49ers,Sports Figures,1
+Football,San Francisco,2
+Football,San Francisco 49ers,3
+NFL,San Francisco,2
+NFL,San Francisco 49ers,3
+San Francisco,San Francisco 49ers,2
+Josh Allen,San Francisco,1
+Josh Allen,San Francisco 49ers,1
+Gaming,Playstation,3
+PS5,Playstation,2
+Football,Georgia,1
+Football,Hawaii,1
+Georgia,Hawaii,1
+Coronavirus,New York,5
+Business Leaders,Coronavirus,1
+Football,Oregon,1
+NFL,Oregon,1
+Arkansas,Utah,1
+Arkansas,Football,1
+Football,Utah,1
+Christmas,Music,1
+Holidays,Music,1
+Minnesota,Music,1
+Music,St. Paul,1
+Christmas,Holidays,1
+Christmas,Minnesota,1
+Christmas,St. Paul,1
+Holidays,Minnesota,1
+Holidays,St. Paul,1
+Minnesota,St. Paul,1
+China,Volcanoes,1
+Football,Illinois,5
+Food & Drink,New York,1
+Dennis Quaid,Movies,1
+Coronavirus,United Kingdom,1
+Football,Super Bowl,3
+Drake,NFL,1
+NFL,Super Bowl,2
+Insurance,NFL,1
+NFL,State Farm,1
+Drake,Football,1
+Drake,Super Bowl,1
+Drake,Insurance,1
+Drake,State Farm,1
+Football,Insurance,1
+Football,State Farm,1
+Insurance,Super Bowl,1
+State Farm,Super Bowl,1
+Insurance,State Farm,1
+Football,Tampa Bay Buccaneers,1
+NFL,Tampa Bay Buccaneers,1
+CVS,Coronavirus,2
+Academia,Coronavirus,1
+Coronavirus,Kroger,2
+Coronavirus,Walgreens,1
+Coronavirus,Walmart,1
+CVS,Kroger,1
+CVS,Walgreens,1
+CVS,Walmart,1
+Kroger,Walgreens,1
+Kroger,Walmart,1
+Walgreens,Walmart,1
+Football,Steve Sarkisian,2
+Alabama,Steve Sarkisian,1
+Alabama,Sports Figures,1
+Sports Figures,Steve Sarkisian,2
+NFL,Pennsylvania State University,1
+Steve Sarkisian,Texas,1
+Sports Figures,Texas,1
+Football,Tennessee,1
+Chicago,NFL,3
+Illinois,NFL,3
+Chicago Bears,NFL,3
+Chicago,Illinois,9
+Chicago,Chicago Bears,3
+Chicago,Football,3
+Chicago Bears,Illinois,3
+Chicago Bears,Football,3
+Football,Oklahoma,1
+Football,Virginia,1
+Academia,Virginia,2
+College Sports,NFL,1
+Basketball,Memphis,2
+Basketball,Tennessee,2
+Memphis,Tennessee,2
+Baseball,College Sports,1
+College Sports,Louisiana,1
+College Sports,Mississippi,1
+Baseball,Louisiana,1
+Baseball,Mississippi,1
+Louisiana,Mississippi,1
+Basketball,March Madness,2
+March Madness,NBA,1
+Instagram,NFL,1
+Basketball,Iowa,1
+College Sports,Texas,1
+Kristen Stewart,Movies,1
+Kristen Stewart,Princess Diana,1
+Kristen Stewart,Royal Family,1
+Movies,Princess Diana,1
+Movies,Royal Family,1
+Princess Diana,Royal Family,1
+Gaming,PS4,2
+Microsoft,PS4,2
+PS4,Xbox,2
+Coronavirus,Pennsylvania,1
+Basketball,Pennsylvania State University,2
+Homelessness,Social Issues,1
+Homelessness,Pandora,1
+Pandora,Social Issues,1
+Christianity,Football,1
+Christianity,Illinois,1
+Baseball,Chicago Cubs,1
+Baseball,MLB,14
+Baseball,Chicago,1
+Baseball,Illinois,1
+Baseball,Javier Baez,1
+Baseball,Sports Figures,3
+Chicago Cubs,MLB,1
+Chicago,Chicago Cubs,1
+Chicago Cubs,Illinois,1
+Chicago Cubs,Javier Baez,1
+Chicago Cubs,Sports Figures,1
+Chicago,MLB,1
+Illinois,MLB,1
+Javier Baez,MLB,1
+MLB,Sports Figures,1
+Chicago,Javier Baez,1
+Chicago,Sports Figures,1
+Illinois,Javier Baez,1
+Illinois,Sports Figures,1
+Javier Baez,Sports Figures,1
+Food & Drink,Starbucks,1
+Cruise Lines,United Kingdom,1
+College Sports,Illinois,1
+Baseball,Softball,1
+Football,United Kingdom,2
+Football,Minnesota,2
+Minnesota,NFL,1
+Football,Houston Texans,1
+Football,Houston,1
+Houston Texans,NFL,1
+Houston,Houston Texans,1
+Houston Texans,Texas,1
+Houston,NFL,1
+NFL,Texas,1
+Houston,Texas,2
+Basketball,Louisiana State University,1
+Academia,Louisiana State University,1
+Football,Kansas City Chiefs,1
+Football,Kansas,1
+Football,Kansas City,1
+Kansas City Chiefs,NFL,1
+Kansas,Kansas City Chiefs,1
+Kansas City,Kansas City Chiefs,1
+Kansas City Chiefs,Missouri,1
+Kansas,NFL,1
+Kansas City,NFL,1
+Missouri,NFL,1
+Kansas,Kansas City,3
+Kansas,Missouri,3
+Kansas City,Missouri,3
+Barcelona,Spain,1
+Barcelona,Formula 1,1
+Barcelona,Motorsports,1
+Formula 1,Spain,1
+Motorsports,Spain,1
+Formula 1,Motorsports,3
+Food & Drink,Recipes,1
+Green Energy,Illinois,1
+Electric Vehicles,Illinois,1
+Electric Vehicles,Green Energy,3
+Bruno Mars,Las Vegas,1
+Bruno Mars,Nevada,1
+Las Vegas,Nevada,2
+Harry Potter,Warner Bros,1
+Chicago,Hockey,1
+Hockey,Illinois,1
+Chicago Blackhawks,Hockey,1
+Hockey,NHL,10
+Chicago,Chicago Blackhawks,1
+Chicago,NHL,1
+Chicago Blackhawks,Illinois,1
+Illinois,NHL,1
+Chicago Blackhawks,NHL,1
+Airlines,Turkey,1
+Airlines,Turkish,1
+Aviation,Turkey,1
+Aviation,Turkish,1
+Turkey,Turkish,1
+Cruise Lines,NYC,1
+Avengers,Disney,1
+California,Los Angeles,4
+California,LGBTQ,1
+California,Social Issues,1
+California,Shopping,1
+LGBTQ,Los Angeles,1
+Los Angeles,Social Issues,1
+Los Angeles,Shopping,1
+LGBTQ,Shopping,1
+Shopping,Social Issues,1
+Cleveland,Golf,1
+Golf,Ohio,1
+Business Leaders,Detroit,1
+Business Leaders,Michigan,1
+Business Leaders,Markets,4
+Detroit,Michigan,1
+Detroit,Markets,1
+Markets,Michigan,1
+European Football,Football,5
+Style,Zara,1
+Elephants,Wildlife,1
+Fortnite,Gaming,2
+Coronavirus,UN Climate Change Conference,1
+Basketball,Big Ten,1
+Basketball,Florida,2
+Basketball,Miami,1
+Big Ten,Florida,1
+Big Ten,Miami,1
+Big Ten,Pennsylvania State University,1
+Florida,Pennsylvania State University,1
+Miami,Pennsylvania State University,1
+Baltimore,Maryland,2
+Food & Drink,Nashville,1
+Food & Drink,Tennessee,1
+Nashville,Tennessee,1
+Space,Virgin Galactic,2
+Columbus Blue Jackets,Hockey,1
+Columbus Blue Jackets,NHL,1
+Cannabis,Social Issues,3
+Ben Affleck,Jennifer Lopez,1
+America's Got Talent,TV,1
+Basketball,Chicago Bulls,1
+Basketball,Chicago,1
+Basketball,Illinois,2
+Chicago Bulls,NBA,1
+Chicago,Chicago Bulls,1
+Chicago Bulls,Illinois,1
+Chicago,NBA,1
+Illinois,NBA,1
+Football,TV,1
+Genesis Motor,Reviews,1
+Gaming,Roblox,1
+Fantasy Sports,Football,2
+Coronavirus,Ohio,1
+Las Vegas Raiders,NFL,3
+NFL,Oakland,2
+Football,Las Vegas Raiders,3
+Football,Oakland,2
+Las Vegas Raiders,Oakland,2
+Airlines,Coronavirus,1
+Aviation,Coronavirus,1
+AstraZeneca,Coronavirus,1
+AstraZeneca,Data,1
+Coronavirus,Data,1
+Academia,Georgia,1
+Academia,Memphis,1
+Academia,Tennessee,1
+Basketball,Georgia,1
+Georgia,Memphis,1
+Georgia,Tennessee,1
+Crime,Terrorism,1
+Crime,Nancy Pelosi,1
+Nancy Pelosi,Terrorism,1
+Netflix,Poland,1
+Poland,Stranger Things,1
+Poland,TV,1
+Beauty,Style,1
+IBM,Oracle,1
+Microsoft,Oracle,2
+Chicago,Kansas,1
+Chicago,Kansas City,1
+Chicago,Missouri,1
+Illinois,Kansas,1
+Illinois,Kansas City,1
+Illinois,Missouri,1
+Markets,Ukraine,1
+Activism,Markets,1
+Massachusetts,Startups,2
+Cricket,Indian Premier League,1
+Cricket,European Football,1
+European Football,Indian Premier League,1
+Baseball,Houston Astros,4
+Baseball,Chicago White Sox,2
+Houston Astros,MLB,4
+Chicago White Sox,Houston Astros,1
+Chicago White Sox,MLB,2
+MMA,UFC,1
+AWS,Amazon,10
+FinTech,IPO,1
+FinTech,Markets,2
+Mitsubishi,Samsung,1
+Joe Biden,Pope Francis,1
+Malaysia,Markets,1
+Fashion,Style,2
+Fashion,Oprah Winfrey,1
+Oprah Winfrey,Style,1
+Apple,Electronics,11
+Apple,iPhone,9
+Apple,Black Friday,2
+Apple,Shopping,2
+Electronics,iPhone,10
+Black Friday,Electronics,2
+Electronics,Shopping,4
+Black Friday,iPhone,2
+Shopping,iPhone,2
+Black Friday,Shopping,3
+Canada,Justin Trudeau,1
+Canada,Immigration,1
+Canada,Social Issues,1
+Canada,Joe Biden,1
+Immigration,Justin Trudeau,1
+Justin Trudeau,Social Issues,1
+Joe Biden,Justin Trudeau,1
+Immigration,Social Issues,1
+Immigration,Joe Biden,1
+Joe Biden,Social Issues,1
+Cannabis,Food & Drink,1
+Cannabis,Uber Eats,1
+Cannabis,Ridesharing,1
+Cannabis,Uber,1
+Food & Drink,Social Issues,1
+Social Issues,Uber Eats,1
+Ridesharing,Social Issues,1
+Social Issues,Uber,1
+Food & Drink,Uber Eats,1
+Food & Drink,Ridesharing,1
+Food & Drink,Uber,1
+Ridesharing,Uber Eats,1
+Uber,Uber Eats,1
+Ridesharing,Uber,1
+California,Football,2
+California,NFL,1
+California,Pittsburgh Steelers,1
+Football,Los Angeles,1
+Los Angeles,NFL,1
+Los Angeles,Pittsburgh Steelers,1
+Football,Pittsburgh Steelers,2
+NFL,Pittsburgh Steelers,2
+CVS,Markets,1
+Arizona,Tucson,2
+Alabama,Arizona,1
+Alabama,Tucson,1
+Alabama,Missouri,1
+Arizona,Missouri,1
+Missouri,Tucson,1
+Academia,Kentucky,1
+Soccer,Vietnam,1
+Markets,Space,1
+Aerospace,Markets,1
+Aerospace,Space,1
+Australia,Tennis,1
+Australian Open,Tennis,1
+Australia,Australian Open,1
+Grammy Awards,Music,1
+Basketball,College Sports,3
+Gaming,Nintendo,2
+Nintendo,Star Wars,1
+Gaming,Star Wars,1
+Coronavirus,Markets,1
+AI,Cryptocurrency,3
+AI,Markets,1
+NBA,New York Knicks,1
+Basketball,New York Knicks,1
+Astrology,Horoscopes,1
+Holidays,Mother's Day,1
+AI,Shopping,1
+AI,Electronics,1
+ESG,Green Energy,2
+ESG,Electric Vehicles,1
+WWE,Wrestling,4
+Asian,Markets,1
+AI,Startups,1
+Crime,Murder,1
+Markets,Shopping,1
+Academia,World Series,1
+Lawsuits,The Walking Dead,1
+Lawsuits,TV,1
+TV,The Walking Dead,1
+Basketball,Miami Heat,1
+Basketball,Florida Panthers,1
+Basketball,NHL,1
+Basketball,Hockey,1
+Florida Panthers,Miami Heat,1
+Miami Heat,NHL,1
+Hockey,Miami Heat,1
+Miami Heat,NBA,1
+Florida Panthers,NHL,1
+Florida Panthers,Hockey,1
+Florida Panthers,NBA,1
+NBA,NHL,1
+Hockey,NBA,1
+Australia,Congress,1
+Basketball,WNBA,3
+Entrepreneur,In Memoriam,1
+Basketball,Los Angeles Clippers,1
+Los Angeles Clippers,NBA,1
+Altcoins,Zcash,1
+Altcoins,Cryptocurrency,1
+Cryptocurrency,Zcash,1
+Australia,Style,1
+Australia,Fashion,1
+Olympics,Olympics 2024,1
+American Red Cross,Environment-ESG,1
+Environment-ESG,North America,1
+Dallas Cowboys,NFL,1
+Dallas Cowboys,Sports Figures,1
+Dallas Cowboys,Football,1
+European Football,Sports Figures,1
+European Football,UEFA,1
+Sports Figures,UEFA,1
+MacBooks,Shopping,1
+Electronics,MacBooks,1
+AI,Business Leaders,1
+Diwali,Fashion,1
+Diwali,Holidays,1
+Fashion,Holidays,1
+Halloween,Holidays,1
+TV,World Cup,1
+Australia,World Cup,1
+Dallas Mavericks,NBA,1
+Basketball,Dallas Mavericks,1
+Gaming,Movies,1
+5G,Social-ESG,1
+Green Bay Packers,NFL,2
+Football,Green Bay Packers,2
+Golf,Sports Figures,1
+Markets,Walmart,1
+Atlanta Braves,MLB,2
+Atlanta,MLB,3
+Georgia,MLB,3
+Atlanta Braves,Baseball,2
+Atlanta,Baseball,4
+Baseball,Georgia,4
+Atlanta,Atlanta Braves,2
+Atlanta Braves,Georgia,2
+Atlanta,Georgia,6
+DNC,Green Energy,1
+China,Iranian,1
+Markets,Real Estate,1
+Markets,United Kingdom,1
+Real Estate,United Kingdom,1
+Joe Biden,Ukraine,1
+Inflation,Joe Biden,1
+Inflation,Ukraine,1
+DNC,Texas,1
+WrestleMania,Wrestling,1
+WWE,WrestleMania,1
+Apple,Google,2
+Apple,Microsoft,1
+Google,Microsoft,4
+Canada,Hockey,1
+Michigan,Supreme Court,1
+Roku,Walmart,1
+PS4,PS5,1
+Australia,Markets,1
+Climate Change,Markets,1
+Australia,Climate Change,1
+Indiana,Seattle,1
+Indiana,Washington,1
+Seattle,Washington,4
+Atlanta,Washington Nationals,1
+Georgia,Washington Nationals,1
+Atlanta Braves,Washington Nationals,1
+Baseball,Washington Nationals,1
+MLB,Washington Nationals,1
+Baltimore,Football,1
+Football,France,1
+Baltimore,France,1
+France,Maryland,1
+Hyundai,Toyota,1
+Dow Jones,Markets,1
+G20,Indonesia,1
+G20,Ukraine,1
+G20,Russia-Ukraine War,1
+Indonesia,Ukraine,1
+Indonesia,Russia-Ukraine War,1
+Russia-Ukraine War,Ukraine,3
+Markets,NASDAQ,17
+Cycling,Tour de France,1
+Cycling,European Union,1
+Cycling,France,1
+European Union,Tour de France,1
+France,Tour de France,1
+European Union,France,1
+Deshaun Watson,Football,1
+Deshaun Watson,Sports Figures,1
+Russia,Russia-Ukraine War,3
+Android,Google,3
+5G,Academia,1
+5G,Apple,2
+5G,Electronics,2
+5G,iPhone,2
+Academia,Apple,1
+Academia,Electronics,1
+Academia,iPhone,1
+Country Music,Rascal Flatts,1
+Business Leaders,NASDAQ,1
+Business Leaders,Texas,1
+Markets,Texas,1
+NASDAQ,Texas,1
+Coca-Cola,Food & Drink,1
+Baseball,Caribbean Islands,1
+Baseball,Cuba,1
+Caribbean Islands,Houston Astros,1
+Cuba,Houston Astros,1
+Caribbean Islands,MLB,1
+Cuba,MLB,1
+Caribbean Islands,Cuba,1
+GOP,Oklahoma,1
+DNC,New York,1
+Golf,Podcasts,1
+DNC,Florida,1
+Markets,NYSE,9
+Abortion,Social Issues,1
+Abortion,Supreme Court,1
+Social Issues,Supreme Court,1
+Queen Elizabeth,Royal Family,1
+Ja Morant,Lebron James,1
+Basketball,Lebron James,1
+Ja Morant,Sports Figures,1
+Basketball,Ja Morant,1
+IPO,Porsche,1
+IPO,Volkswagen,1
+Markets,Porsche,1
+Markets,Volkswagen,1
+Porsche,Volkswagen,1
+Bellator MMA,MMA,1
+Roger Federer,Sports Figures,1
+FLOTUS,Jill Biden,2
+Jill Biden,Joe Biden,2
+FLOTUS,Joe Biden,2
+Media,Security,1
+Media,Security Breach,1
+Baseball,Los Angeles Dodgers,1
+Baseball,San Diego Padres,2
+Los Angeles Dodgers,MLB,1
+Los Angeles Dodgers,San Diego Padres,1
+MLB,San Diego Padres,2
+Baseball,New York Yankees,2
+Baseball,World Series,1
+Houston Astros,New York Yankees,1
+Houston Astros,World Series,1
+MLB,New York Yankees,2
+MLB,World Series,1
+New York Yankees,World Series,1
+China,Markets,2
+Sports Figures,United Kingdom,1
+Mohamed Salah,United Kingdom,1
+Mohamed Salah,Sports Figures,1
+FIFA World Cup,World Cup,2
+Football,Kentucky,1
+Football,Louisville,1
+College Sports,Kentucky,1
+College Sports,Louisville,1
+Kentucky,Louisville,1
+Australia,Soccer,1
+France,Soccer,1
+Australia,France,1
+Belgium,Soccer,1
+Canada,Soccer,1
+European Football,Soccer,1
+FIFA,Soccer,1
+Soccer,World Cup,1
+FIFA World Cup,Soccer,1
+Belgium,Canada,1
+Belgium,European Football,1
+Belgium,FIFA,1
+Belgium,World Cup,1
+Belgium,FIFA World Cup,1
+Canada,European Football,1
+Canada,FIFA,1
+Canada,World Cup,1
+Canada,FIFA World Cup,1
+European Football,World Cup,1
+European Football,FIFA World Cup,1
+FIFA,World Cup,1
+FIFA,FIFA World Cup,1
+Cryptocurrency,Dogecoin,2
+Joe Biden,South Carolina,1
+Basketball,Colorado,1
+Academia,Colorado,1
+College Sports,Colorado,1
+Football,Shopping,1
+FinTech,Malaysia,1
+FinTech,Thailand,1
+Malaysia,Thailand,1
+Minneapolis,Minnesota,1
+Real Estate,Utah,1
+IBM,Samsung,1
+IBM,Markets,3
+5G,India,1
+Music Festivals,SXSW,3
+Music Festivals,Podcasts,2
+Podcasts,SXSW,2
+Economy,Real Estate,1
+Australia,Commonwealth Games,1
+Music,Raggae,2
+Sports Figures,Tennis,2
+AI,United Kingdom,2
+IBM,North America,2
+Business Leaders,Space,2
+Cleveland Cavaliers,NBA,1
+Basketball,Cleveland Cavaliers,1
+Reviews,Theater,2
+Football,Long Beach,1
+California,Long Beach,1
+Australia,IBM,2
+Amazon,Seattle,1
+Amazon,Washington,1
+Amazon Prime,Seattle,1
+Amazon Prime,Washington,1
+Microsoft,Seattle,1
+Microsoft,Washington,1
+Oil & Gas,World Cup,1
+Academia,Nvidia,1
+Baltimore Orioles,MLB,1
+Baltimore Orioles,Chicago White Sox,1
+Baltimore Orioles,Baseball,1
+Environment-ESG,Europe,1
+Airlines,Boeing,3
+Airlines,Space,1
+Aviation,Boeing,3
+Aviation,Space,1
+Boeing,Space,1
+Boeing,IBM,1
+Airlines,Google,1
+Airlines,Microsoft,1
+Aviation,Google,1
+Aviation,Microsoft,1
+Boeing,Google,1
+Boeing,Microsoft,1
+Basketball,Washington Wizards,1
+NBA,Washington Wizards,1
+Sports Figures,Washington Wizards,1
+Business Leaders,Security,2
+Business Leaders,Security Breach,2
+Alibaba,Business Leaders,1
+AWS,Amazon Prime,2
+Series A,Startups,3
+Series A,Venture Capital,3
+Startups,Venture Capital,3
+Microsoft,Startups,4
+IBM,Taiwan,1
+AI,Asian,1
+Prince Philip,Royal Family,1
+China,Cryptocurrency,1
+Exxon,IBM,1
+NBA,Philadelphia 76ers,1
+NBA,Pennsylvania,1
+Basketball,Philadelphia 76ers,1
+Basketball,Pennsylvania,1
+Pennsylvania,Philadelphia 76ers,1
+European Union,Startups,1
+Airbus,Business Leaders,1
+Airbus,Space,1
+Barclays Bank,IBM,1
+AI,Oracle,1
+Climate Change,Exxon,1
+Security,US Air Force,1
+Security Breach,US Air Force,1
+Amazon,Blockchain,1
+AWS,Blockchain,1
+Movies,Warner Bros,1
+5G,FinTech,1
+5G,IBM,1
+5G,Unemployment,1
+5G,UPS,1
+5G,WeWork,1
+FinTech,IBM,1
+FinTech,Unemployment,1
+FinTech,UPS,1
+FinTech,WeWork,1
+IBM,Unemployment,1
+IBM,UPS,1
+IBM,WeWork,1
+UPS,Unemployment,1
+Unemployment,WeWork,1
+UPS,WeWork,1
+Chicago,IBM,1
+IBM,Illinois,1
+IBM,Massachusetts,2
+Australia,Silicon Valley,1
+Calgary,Canada,1
+Academia,North America,1
+AI,Australia,1
+AI,Traffic,1
+Australia,Traffic,1
+IBM,Virginia,1
+AI,Podcasts,1
+Cryptocurrency,India,1
+IBM,Mitsubishi,2
+Academia,Mitsubishi,1
+Food & Drink,Holidays,1
+Food & Drink,Independence Day,1
+Holidays,Independence Day,1
+Blockchain,Salesforce,1
+5G,Nokia,1
+5G,Security,1
+5G,Security Breach,1
+Nokia,Security,1
+Nokia,Security Breach,1
+Business Leaders,Microsoft,3
+IBM,JPMorgan,1
+Africa,IBM,4
+Silicon Valley,United Kingdom,1
+Academia,Africa,2
+Academia,New Mexico,1
+Singapore,Startups,1
+5G,Blockchain,1
+Airbus,India,1
+China,Trump,1
+Academia,Illinois,1
+Academia,University of Illinois,1
+Illinois,University of Illinois,1
+AI,China,1
+AI,Blockchain,1
+AI,Security,1
+AI,Security Breach,1
+Blockchain,Security,1
+Blockchain,Security Breach,1
+Brexit,World Politics,1
+Seed Rounds,Venture Capital,5
+Academia,NYU,1
+Academia,Cryptocurrency,2
+Academia,Microsoft,1
+Cryptocurrency,NSA,1
+Cryptocurrency,Security,1
+Cryptocurrency,Security Breach,1
+NSA,Security,1
+NSA,Security Breach,1
+Cryptocurrency,Microsoft,1
+AI,NSA,1
+California,Series A,1
+Los Angeles,Series A,1
+California,Startups,1
+Los Angeles,Startups,1
+California,Venture Capital,1
+Los Angeles,Venture Capital,1
+Gaming,Oracle,1
+Goldman Sachs,Markets,2
+Samsung,Startups,1
+Academia,Samsung,1
+Blockchain,Business Leaders,1
+Alibaba,Blockchain,1
+Blockchain,UAE,1
+Alibaba,UAE,1
+IBM,New York,1
+Microsoft,North Carolina,1
+AI,Academia,3
+Google,Singapore,1
+IBM,Singapore,1
+Academia,Wells Fargo,1
+AI,Wells Fargo,2
+IBM,Wells Fargo,2
+AI,Germany,1
+Amazon,Business Leaders,1
+Amazon Prime,Business Leaders,1
+BMW,NYC,1
+Bitcoin,Deloitte,1
+Cryptocurrency,Deloitte,1
+Business Leaders,Venture Capital,1
+Academia,China,1
+Amazon,Reviews,1
+AWS,Reviews,1
+Bahamas,Caribbean Islands,1
+Apple,Apple TV+,1
+Apple,Apple   ,1
+Apple TV+,TV,1
+Apple   ,TV,1
+Apple   ,Apple TV+,1
+Boston Bruins,Hockey,1
+Fashion,Kate Hudson,1
+Cincinnati,Cincinnati Bengals,2
+Cincinnati,Football,2
+Cincinnati,NFL,2
+Cincinnati Bengals,Football,2
+Cincinnati Bengals,NFL,2
+Gaming,Samsung,1
+PS5,Samsung,1
+Microsoft,Samsung,1
+Samsung,Xbox,1
+California,San Diego,3
+Gaming,Nvidia,1
+Cyberpunk 2077,Nvidia,1
+Arkansas,Theater,1
+Academia,Brad Pitt,1
+KISS,Movies,1
+Electronics,India,1
+India,Samsung,1
+Huawei,Malaysia,1
+Economy,European Union,1
+Economy,Germany,1
+Economy,India,1
+European Union,India,1
+Germany,India,1
+Milwaukee Bucks,NBA,1
+NBA,Orlando Magic,1
+Florida,NBA,1
+NBA,Orlando,1
+Milwaukee,NBA,1
+NBA,Wisconsin,1
+Basketball,Milwaukee Bucks,1
+Basketball,Orlando Magic,1
+Basketball,Orlando,1
+Basketball,Milwaukee,1
+Basketball,Wisconsin,1
+Milwaukee Bucks,Orlando Magic,1
+Florida,Milwaukee Bucks,1
+Milwaukee Bucks,Orlando,1
+Milwaukee,Milwaukee Bucks,1
+Milwaukee Bucks,Wisconsin,1
+Florida,Orlando Magic,1
+Orlando,Orlando Magic,1
+Milwaukee,Orlando Magic,1
+Orlando Magic,Wisconsin,1
+Florida,Milwaukee,1
+Florida,Wisconsin,1
+Milwaukee,Orlando,1
+Orlando,Wisconsin,1
+Milwaukee,Wisconsin,1
+Sports Figures,Virat Kohli,1
+Africa,Kamala Harris,1
+Atlanta,Green Energy,1
+Atlanta,Electric Vehicles,1
+Georgia,Green Energy,1
+Electric Vehicles,Georgia,1
+Russia,Ukraine,1
+Edmonton Oilers,NHL,1
+Arizona,NBA,1
+Arizona,Phoenix,2
+Arizona,Basketball,1
+Arizona,Phoenix Suns,1
+NBA,Phoenix,1
+NBA,Phoenix Suns,1
+Basketball,Phoenix,1
+Phoenix,Phoenix Suns,1
+Basketball,Phoenix Suns,1
+Bollywood,Movies,1
+Earnings Calls,Markets,2
+Aston Martin,Motorsports,1
+Aston Martin,Formula 1,1
+NYC,Orlando,1
+New York,Orlando,1
+Florida,NYC,1
+Florida,New York,1
+Dak Prescott,Sports Figures,1
+Aviation,ESG,1
+College Sports,Oklahoma,1
+College Sports,Softball,1
+Oklahoma,Softball,1
+Fitness,Qatar,1
+China,Law Enforcement,1
+China,Philippines,1
+Law Enforcement,Philippines,1
+Electric Vehicles,Energy Storage,1
+Energy Storage,India,1
+Electric Vehicles,India,1
+California,NHL,1
+California,Los Angeles Kings,1
+California,Hockey,1
+Los Angeles Kings,NHL,1
+Los Angeles,NHL,1
+Hockey,Los Angeles Kings,1
+Los Angeles,Los Angeles Kings,1
+Hockey,Los Angeles,1
+Bollywood,Guinness World Records,1
+Justin Verlander,Sports Figures,1
+Grammy Awards,Podcasts,1
+Hockey,Podcasts,1
+Grammy Awards,Hockey,1
+United Kingdom,Vodafone,1
+Nokia,United Kingdom,1
+Nokia,Vodafone,1
+Alibaba,Markets,1
+Alibaba,China,1
+Philadelphia Phillies,San Diego Padres,1
+Baseball,Philadelphia Phillies,1
+MLB,Philadelphia Phillies,1
+Bollywood,India,1
+Eden Hazard,Sports Figures,1
+Airlines,Lufthansa,1
+Aviation,Lufthansa,1
+Boeing,Lufthansa,1
+Business Leaders,Startups,1
+FinTech,JPMorgan,1
+Nebraska,Soccer,1
+AI,Bitcoin,1
+Bitcoin,Dogecoin,1
+AI,Dogecoin,1
+Apple,Apple Watch,2
+Apple Watch,Electronics,2
+Music,Texas,1
+Bollywood,Netflix,1
+Costco,Markets,1
+Electronics,Google,1
+Google,iPhone,1
+Android,Apple,1
+Android,Electronics,1
+Android,iPhone,1
+Pittsburgh Steelers,T.J. Watt,1
+Pittsburgh Steelers,Sports Figures,1
+Sports Figures,T.J. Watt,1
+NFL,T.J. Watt,1
+Football,T.J. Watt,1
+AI,Media,1
+Apple,Samsung,1
+Samsung,iPhone,1
+Rafael Nadal,Sports Figures,1
+Novak Djokovic,Sports Figures,1
+Novak Djokovic,Rafael Nadal,1
+Rafael Nadal,Tennis,1
+Novak Djokovic,Tennis,1
+College Sports,San Diego,1
+Basketball,San Diego,1
+California,College Sports,1
+Basketball,California,1
+Arizona,Hockey,1
+Hockey,Phoenix,1
+Cryptocurrency,Markets,1
+Cryptocurrency,NASDAQ,1
+TV,The Masked Singer,1
+Cryptocurrency,Electronics,1
+Cryptocurrency,Samsung,1
+China,Earthquakes,1
+Holidays,Las Vegas,1
+Las Vegas,NYE,1
+Holidays,Nevada,1
+Holidays,NYE,1
+NYE,Nevada,1
+Economy,Hong Kong,1
+Hong Kong,Markets,1
+Economy,Markets,1

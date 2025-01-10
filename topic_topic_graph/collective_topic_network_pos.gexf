@@ -1,0 +1,1694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-01-10">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Basketball" label="Basketball" />
+      <node id="YouTube" label="YouTube" />
+      <node id="America's Got Talent" label="America's Got Talent" />
+      <node id="Javier Baez" label="Javier Baez" />
+      <node id="Genesis Motor" label="Genesis Motor" />
+      <node id="Wisconsin" label="Wisconsin" />
+      <node id="Inflation" label="Inflation" />
+      <node id="Singapore" label="Singapore" />
+      <node id="Activism" label="Activism" />
+      <node id="Louisville" label="Louisville" />
+      <node id="ESG" label="ESG" />
+      <node id="Nevada" label="Nevada" />
+      <node id="Bahamas" label="Bahamas" />
+      <node id="Theater" label="Theater" />
+      <node id="San Francisco 49ers" label="San Francisco 49ers" />
+      <node id="IBM" label="IBM" />
+      <node id="Taylor Swift" label="Taylor Swift" />
+      <node id="Mohamed Salah" label="Mohamed Salah" />
+      <node id="Chicago" label="Chicago" />
+      <node id="Goldman Sachs" label="Goldman Sachs" />
+      <node id="Oakland" label="Oakland" />
+      <node id="AI" label="AI" />
+      <node id="Twitter" label="Twitter" />
+      <node id="Android" label="Android" />
+      <node id="Samsung" label="Samsung" />
+      <node id="USC" label="USC" />
+      <node id="Dave Chappelle" label="Dave Chappelle" />
+      <node id="Mother's Day" label="Mother's Day" />
+      <node id="Reviews" label="Reviews" />
+      <node id="Poland" label="Poland" />
+      <node id="Horoscopes" label="Horoscopes" />
+      <node id="Seattle" label="Seattle" />
+      <node id="Chrissy Teigen" label="Chrissy Teigen" />
+      <node id="Vietnam" label="Vietnam" />
+      <node id="Arizona" label="Arizona" />
+      <node id="BTS" label="BTS" />
+      <node id="Electric Vehicles" label="Electric Vehicles" />
+      <node id="Stranger Things" label="Stranger Things" />
+      <node id="World Series" label="World Series" />
+      <node id="Earthquakes" label="Earthquakes" />
+      <node id="NYE" label="NYE" />
+      <node id="Delta Air Lines" label="Delta Air Lines" />
+      <node id="Cobra Kai" label="Cobra Kai" />
+      <node id="New England Patriots" label="New England Patriots" />
+      <node id="Bose" label="Bose" />
+      <node id="St. Paul" label="St. Paul" />
+      <node id="Los Angeles Clippers" label="Los Angeles Clippers" />
+      <node id="Illinois" label="Illinois" />
+      <node id="Turkish" label="Turkish" />
+      <node id="Cyberpunk 2077" label="Cyberpunk 2077" />
+      <node id="Alibaba" label="Alibaba" />
+      <node id="IPO" label="IPO" />
+      <node id="Los Angeles" label="Los Angeles" />
+      <node id="MacBooks" label="MacBooks" />
+      <node id="Oregon" label="Oregon" />
+      <node id="Rafael Nadal" label="Rafael Nadal" />
+      <node id="Movies" label="Movies" />
+      <node id="WrestleMania" label="WrestleMania" />
+      <node id="Coca-Cola" label="Coca-Cola" />
+      <node id="Motorsports" label="Motorsports" />
+      <node id="Philadelphia Phillies" label="Philadelphia Phillies" />
+      <node id="Kristen Stewart" label="Kristen Stewart" />
+      <node id="Nebraska" label="Nebraska" />
+      <node id="Germany" label="Germany" />
+      <node id="Kroger" label="Kroger" />
+      <node id="Thailand" label="Thailand" />
+      <node id="Minneapolis" label="Minneapolis" />
+      <node id="New Mexico" label="New Mexico" />
+      <node id="Snoop Dogg" label="Snoop Dogg" />
+      <node id="Music" label="Music" />
+      <node id="Markets" label="Markets" />
+      <node id="Indianapolis Colts" label="Indianapolis Colts" />
+      <node id="Malaysia" label="Malaysia" />
+      <node id="Insurance" label="Insurance" />
+      <node id="Terrorism" label="Terrorism" />
+      <node id="World Cup" label="World Cup" />
+      <node id="WeWork" label="WeWork" />
+      <node id="Bellator MMA" label="Bellator MMA" />
+      <node id="Music Festivals" label="Music Festivals" />
+      <node id="Cleveland" label="Cleveland" />
+      <node id="Detroit" label="Detroit" />
+      <node id="iPhone" label="iPhone" />
+      <node id="HGTV" label="HGTV" />
+      <node id="Huawei" label="Huawei" />
+      <node id="Roblox" label="Roblox" />
+      <node id="New York" label="New York" />
+      <node id="Exxon" label="Exxon" />
+      <node id="AstraZeneca" label="AstraZeneca" />
+      <node id="WNBA" label="WNBA" />
+      <node id="Nokia" label="Nokia" />
+      <node id="Cruise Lines" label="Cruise Lines" />
+      <node id="Cleveland Browns" label="Cleveland Browns" />
+      <node id="Blockchain" label="Blockchain" />
+      <node id="Airlines" label="Airlines" />
+      <node id="Tennis" label="Tennis" />
+      <node id="Florida Panthers" label="Florida Panthers" />
+      <node id="G20" label="G20" />
+      <node id="Bruno Mars" label="Bruno Mars" />
+      <node id="Oracle" label="Oracle" />
+      <node id="Toyota" label="Toyota" />
+      <node id="Cincinnati" label="Cincinnati" />
+      <node id="Security" label="Security" />
+      <node id="Ryan Gosling" label="Ryan Gosling" />
+      <node id="NASDAQ" label="NASDAQ" />
+      <node id="Unemployment" label="Unemployment" />
+      <node id="Grammy Awards" label="Grammy Awards" />
+      <node id="Football" label="Football" />
+      <node id="Energy Storage" label="Energy Storage" />
+      <node id="Pittsburgh Steelers" label="Pittsburgh Steelers" />
+      <node id="Chicago Bears" label="Chicago Bears" />
+      <node id="Oklahoma" label="Oklahoma" />
+      <node id="Boston Bruins" label="Boston Bruins" />
+      <node id="UFC" label="UFC" />
+      <node id="Buffalo Bills" label="Buffalo Bills" />
+      <node id="Apple TV+" label="Apple TV+" />
+      <node id="Tucson" label="Tucson" />
+      <node id="Joe Biden" label="Joe Biden" />
+      <node id="Christianity" label="Christianity" />
+      <node id="UPS" label="UPS" />
+      <node id="Milwaukee" label="Milwaukee" />
+      <node id="Environment-ESG" label="Environment-ESG" />
+      <node id="Big Ten" label="Big Ten" />
+      <node id="Uber Eats" label="Uber Eats" />
+      <node id="Sony" label="Sony" />
+      <node id="Murder" label="Murder" />
+      <node id="Harry Styles" label="Harry Styles" />
+      <node id="Cryptocurrency" label="Cryptocurrency" />
+      <node id="Iowa" label="Iowa" />
+      <node id="Economy" label="Economy" />
+      <node id="Podcasts" label="Podcasts" />
+      <node id="PS5" label="PS5" />
+      <node id="Indonesia" label="Indonesia" />
+      <node id="Los Angeles Kings" label="Los Angeles Kings" />
+      <node id="Evan Spiegel" label="Evan Spiegel" />
+      <node id="Barclays Bank" label="Barclays Bank" />
+      <node id="Social Issues" label="Social Issues" />
+      <node id="Mississippi" label="Mississippi" />
+      <node id="Recipes" label="Recipes" />
+      <node id="FIFA" label="FIFA" />
+      <node id="Tampa Bay Buccaneers" label="Tampa Bay Buccaneers" />
+      <node id="Roy Jones Jr." label="Roy Jones Jr." />
+      <node id="Volcanoes" label="Volcanoes" />
+      <node id="Utah" label="Utah" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Food &amp; Drink" label="Food &amp; Drink" />
+      <node id="Thanksgiving" label="Thanksgiving" />
+      <node id="Louisiana State University" label="Louisiana State University" />
+      <node id="Las Vegas" label="Las Vegas" />
+      <node id="NYSE" label="NYSE" />
+      <node id="Venture Capital" label="Venture Capital" />
+      <node id="Elvis Presley" label="Elvis Presley" />
+      <node id="Google" label="Google" />
+      <node id="Asia" label="Asia" />
+      <node id="Nashville" label="Nashville" />
+      <node id="Mitsubishi" label="Mitsubishi" />
+      <node id="Iranian" label="Iranian" />
+      <node id="Asian" label="Asian" />
+      <node id="Los Angeles Dodgers" label="Los Angeles Dodgers" />
+      <node id="JPMorgan" label="JPMorgan" />
+      <node id="Avengers" label="Avengers" />
+      <node id="Oprah Winfrey" label="Oprah Winfrey" />
+      <node id="Baltimore" label="Baltimore" />
+      <node id="Homelessness" label="Homelessness" />
+      <node id="NFL" label="NFL" />
+      <node id="Uber" label="Uber" />
+      <node id="Shania Twain" label="Shania Twain" />
+      <node id="Texas" label="Texas" />
+      <node id="Memphis" label="Memphis" />
+      <node id="Apple Watch" label="Apple Watch" />
+      <node id="Kentucky" label="Kentucky" />
+      <node id="Fitness" label="Fitness" />
+      <node id="Daimler" label="Daimler" />
+      <node id="Georgia" label="Georgia" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="Ben Affleck" label="Ben Affleck" />
+      <node id="Phoenix" label="Phoenix" />
+      <node id="NYU" label="NYU" />
+      <node id="Drake" label="Drake" />
+      <node id="Xbox" label="Xbox" />
+      <node id="Edmonton Oilers" label="Edmonton Oilers" />
+      <node id="Ridesharing" label="Ridesharing" />
+      <node id="Rascal Flatts" label="Rascal Flatts" />
+      <node id="Oil &amp; Gas" label="Oil &amp; Gas" />
+      <node id="AWS" label="AWS" />
+      <node id="Nancy Pelosi" label="Nancy Pelosi" />
+      <node id="Startups" label="Startups" />
+      <node id="Minnesota" label="Minnesota" />
+      <node id="Alabama" label="Alabama" />
+      <node id="Independence Day" label="Independence Day" />
+      <node id="Hyundai" label="Hyundai" />
+      <node id="Orlando Magic" label="Orlando Magic" />
+      <node id="Chicago Cubs" label="Chicago Cubs" />
+      <node id="Supreme Court" label="Supreme Court" />
+      <node id="Earnings Calls" label="Earnings Calls" />
+      <node id="Series A" label="Series A" />
+      <node id="Ukraine" label="Ukraine" />
+      <node id="Taiwan" label="Taiwan" />
+      <node id="Ohio" label="Ohio" />
+      <node id="Diwali" label="Diwali" />
+      <node id="Apple" label="Apple" />
+      <node id="Los Angeles Lakers" label="Los Angeles Lakers" />
+      <node id="Trump" label="Trump" />
+      <node id="Chicago White Sox" label="Chicago White Sox" />
+      <node id="KISS" label="KISS" />
+      <node id="Abortion" label="Abortion" />
+      <node id="Pandora" label="Pandora" />
+      <node id="Queen Elizabeth" label="Queen Elizabeth" />
+      <node id="Dallas Cowboys" label="Dallas Cowboys" />
+      <node id="Canada" label="Canada" />
+      <node id="Crime" label="Crime" />
+      <node id="Spain" label="Spain" />
+      <node id="Academia" label="Academia" />
+      <node id="Milwaukee Bucks" label="Milwaukee Bucks" />
+      <node id="Dow Jones" label="Dow Jones" />
+      <node id="North America" label="North America" />
+      <node id="Justin Trudeau" label="Justin Trudeau" />
+      <node id="Elephants" label="Elephants" />
+      <node id="Facebook" label="Facebook" />
+      <node id="Soccer" label="Soccer" />
+      <node id="LGBTQ" label="LGBTQ" />
+      <node id="University of Illinois" label="University of Illinois" />
+      <node id="Long Beach" label="Long Beach" />
+      <node id="Coinbase" label="Coinbase" />
+      <node id="Pope Francis" label="Pope Francis" />
+      <node id="Columbus Blue Jackets" label="Columbus Blue Jackets" />
+      <node id="Jennifer Lopez" label="Jennifer Lopez" />
+      <node id="9/11" label="9/11" />
+      <node id="European Union" label="European Union" />
+      <node id="Kansas City" label="Kansas City" />
+      <node id="Josh Allen" label="Josh Allen" />
+      <node id="Sports Figures" label="Sports Figures" />
+      <node id="Dak Prescott" label="Dak Prescott" />
+      <node id="Cricket" label="Cricket" />
+      <node id="Airbus" label="Airbus" />
+      <node id="Cincinnati Bengals" label="Cincinnati Bengals" />
+      <node id="Roku" label="Roku" />
+      <node id="Beauty" label="Beauty" />
+      <node id="Gaming" label="Gaming" />
+      <node id="Spotify" label="Spotify" />
+      <node id="Bitcoin" label="Bitcoin" />
+      <node id="Business Leaders" label="Business Leaders" />
+      <node id="Russia" label="Russia" />
+      <node id="Las Vegas Raiders" label="Las Vegas Raiders" />
+      <node id="Warner Bros" label="Warner Bros" />
+      <node id="Houston Texans" label="Houston Texans" />
+      <node id="Orlando Bloom" label="Orlando Bloom" />
+      <node id="Barcelona" label="Barcelona" />
+      <node id="Media" label="Media" />
+      <node id="HBO" label="HBO" />
+      <node id="Europe" label="Europe" />
+      <node id="Indiana" label="Indiana" />
+      <node id="Kelly Clarkson" label="Kelly Clarkson" />
+      <node id="Chadwick Boseman" label="Chadwick Boseman" />
+      <node id="Netflix" label="Netflix" />
+      <node id="March Madness" label="March Madness" />
+      <node id="Nintendo" label="Nintendo" />
+      <node id="Amazon Prime" label="Amazon Prime" />
+      <node id="5G" label="5G" />
+      <node id="San Francisco" label="San Francisco" />
+      <node id="Washington Wizards" label="Washington Wizards" />
+      <node id="Qatar" label="Qatar" />
+      <node id="T.J. Watt" label="T.J. Watt" />
+      <node id="Deshaun Watson" label="Deshaun Watson" />
+      <node id="NBA" label="NBA" />
+      <node id="NHL" label="NHL" />
+      <node id="Louisiana" label="Louisiana" />
+      <node id="UN Climate Change Conference" label="UN Climate Change Conference" />
+      <node id="Maryland" label="Maryland" />
+      <node id="Steve Sarkisian" label="Steve Sarkisian" />
+      <node id="Raggae" label="Raggae" />
+      <node id="Israel" label="Israel" />
+      <node id="GOP" label="GOP" />
+      <node id="Apple   " label="Apple   " />
+      <node id="Belgium" label="Belgium" />
+      <node id="Style" label="Style" />
+      <node id="Tennessee" label="Tennessee" />
+      <node id="Silicon Valley" label="Silicon Valley" />
+      <node id="Halloween" label="Halloween" />
+      <node id="Olympics 2024" label="Olympics 2024" />
+      <node id="Coronavirus" label="Coronavirus" />
+      <node id="Kansas" label="Kansas" />
+      <node id="Green Energy" label="Green Energy" />
+      <node id="Kansas City Chiefs" label="Kansas City Chiefs" />
+      <node id="SpaceX" label="SpaceX" />
+      <node id="Dennis Quaid" label="Dennis Quaid" />
+      <node id="Eden Hazard" label="Eden Hazard" />
+      <node id="Astrology" label="Astrology" />
+      <node id="Deloitte" label="Deloitte" />
+      <node id="Indian Premier League" label="Indian Premier League" />
+      <node id="Golf" label="Golf" />
+      <node id="Jill Biden" label="Jill Biden" />
+      <node id="Country Music" label="Country Music" />
+      <node id="American Red Cross" label="American Red Cross" />
+      <node id="Arkansas" label="Arkansas" />
+      <node id="Houston" label="Houston" />
+      <node id="Congress" label="Congress" />
+      <node id="Novak Djokovic" label="Novak Djokovic" />
+      <node id="San Diego" label="San Diego" />
+      <node id="Olympics" label="Olympics" />
+      <node id="Cuba" label="Cuba" />
+      <node id="Pennsylvania" label="Pennsylvania" />
+      <node id="Tweets" label="Tweets" />
+      <node id="Electronics" label="Electronics" />
+      <node id="WWE" label="WWE" />
+      <node id="Montreal" label="Montreal" />
+      <node id="Nvidia" label="Nvidia" />
+      <node id="Philadelphia 76ers" label="Philadelphia 76ers" />
+      <node id="Guinness World Records" label="Guinness World Records" />
+      <node id="Walgreens" label="Walgreens" />
+      <node id="Zcash" label="Zcash" />
+      <node id="Massachusetts" label="Massachusetts" />
+      <node id="Cannabis" label="Cannabis" />
+      <node id="Boxing" label="Boxing" />
+      <node id="Walmart" label="Walmart" />
+      <node id="FinTech" label="FinTech" />
+      <node id="Black Friday" label="Black Friday" />
+      <node id="Indianapolis" label="Indianapolis" />
+      <node id="TV" label="TV" />
+      <node id="NYC" label="NYC" />
+      <node id="Virat Kohli" label="Virat Kohli" />
+      <node id="Vodafone" label="Vodafone" />
+      <node id="Lufthansa" label="Lufthansa" />
+      <node id="Green Bay Packers" label="Green Bay Packers" />
+      <node id="Amazon" label="Amazon" />
+      <node id="State Farm" label="State Farm" />
+      <node id="Washington" label="Washington" />
+      <node id="Shopping" label="Shopping" />
+      <node id="Disney" label="Disney" />
+      <node id="Immigration" label="Immigration" />
+      <node id="Formula 1" label="Formula 1" />
+      <node id="Traffic" label="Traffic" />
+      <node id="Commonwealth Games" label="Commonwealth Games" />
+      <node id="Star Wars" label="Star Wars" />
+      <node id="Colorado" label="Colorado" />
+      <node id="Johnny Manziel" label="Johnny Manziel" />
+      <node id="Instagram" label="Instagram" />
+      <node id="Volkswagen" label="Volkswagen" />
+      <node id="Softball" label="Softball" />
+      <node id="Caribbean Islands" label="Caribbean Islands" />
+      <node id="Black-ish" label="Black-ish" />
+      <node id="Dallas Mavericks" label="Dallas Mavericks" />
+      <node id="UAE" label="UAE" />
+      <node id="Mike Tyson" label="Mike Tyson" />
+      <node id="Chicago Blackhawks" label="Chicago Blackhawks" />
+      <node id="Tour de France" label="Tour de France" />
+      <node id="Miami Heat" label="Miami Heat" />
+      <node id="Entrepreneur" label="Entrepreneur" />
+      <node id="Seed Rounds" label="Seed Rounds" />
+      <node id="Atlanta Braves" label="Atlanta Braves" />
+      <node id="Microsoft" label="Microsoft" />
+      <node id="Florida" label="Florida" />
+      <node id="Saturday Night Live" label="Saturday Night Live" />
+      <node id="The Bachelor" label="The Bachelor" />
+      <node id="Russia-Ukraine War" label="Russia-Ukraine War" />
+      <node id="In Memoriam" label="In Memoriam" />
+      <node id="Australian Open" label="Australian Open" />
+      <node id="Boeing" label="Boeing" />
+      <node id="China" label="China" />
+      <node id="Drew Brees" label="Drew Brees" />
+      <node id="Ja Morant" label="Ja Morant" />
+      <node id="Salesforce" label="Salesforce" />
+      <node id="New York Yankees" label="New York Yankees" />
+      <node id="The Masked Singer" label="The Masked Singer" />
+      <node id="US Air Force" label="US Air Force" />
+      <node id="The Walking Dead" label="The Walking Dead" />
+      <node id="European Football" label="European Football" />
+      <node id="Virginia" label="Virginia" />
+      <node id="California" label="California" />
+      <node id="Kamala Harris" label="Kamala Harris" />
+      <node id="Roger Federer" label="Roger Federer" />
+      <node id="Pennsylvania State University" label="Pennsylvania State University" />
+      <node id="Africa" label="Africa" />
+      <node id="Cristiano Ronaldo" label="Cristiano Ronaldo" />
+      <node id="Zara" label="Zara" />
+      <node id="Sweden" label="Sweden" />
+      <node id="Harry Potter" label="Harry Potter" />
+      <node id="Wells Fargo" label="Wells Fargo" />
+      <node id="Data" label="Data" />
+      <node id="Orlando" label="Orlando" />
+      <node id="Bill Gates" label="Bill Gates" />
+      <node id="Law Enforcement" label="Law Enforcement" />
+      <node id="Baseball" label="Baseball" />
+      <node id="Halsey" label="Halsey" />
+      <node id="France" label="France" />
+      <node id="Porsche" label="Porsche" />
+      <node id="PS4" label="PS4" />
+      <node id="Virgin Galactic" label="Virgin Galactic" />
+      <node id="Game of Thrones" label="Game of Thrones" />
+      <node id="Fantasy Sports" label="Fantasy Sports" />
+      <node id="Atlanta" label="Atlanta" />
+      <node id="Aviation" label="Aviation" />
+      <node id="Dogecoin" label="Dogecoin" />
+      <node id="SXSW" label="SXSW" />
+      <node id="Private Equity" label="Private Equity" />
+      <node id="Michigan" label="Michigan" />
+      <node id="Cleveland Cavaliers" label="Cleveland Cavaliers" />
+      <node id="Aerospace" label="Aerospace" />
+      <node id="Bollywood" label="Bollywood" />
+      <node id="New York Knicks" label="New York Knicks" />
+      <node id="Kate Hudson" label="Kate Hudson" />
+      <node id="Phoenix Suns" label="Phoenix Suns" />
+      <node id="Wildlife" label="Wildlife" />
+      <node id="Security Breach" label="Security Breach" />
+      <node id="India" label="India" />
+      <node id="Katy Perry" label="Katy Perry" />
+      <node id="Baltimore Orioles" label="Baltimore Orioles" />
+      <node id="Japan" label="Japan" />
+      <node id="MMA" label="MMA" />
+      <node id="South Carolina" label="South Carolina" />
+      <node id="Space" label="Space" />
+      <node id="Prince Philip" label="Prince Philip" />
+      <node id="Real Estate" label="Real Estate" />
+      <node id="Fortnite" label="Fortnite" />
+      <node id="John Legend" label="John Legend" />
+      <node id="Royal Family" label="Royal Family" />
+      <node id="Hawaii" label="Hawaii" />
+      <node id="Australia" label="Australia" />
+      <node id="Calgary" label="Calgary" />
+      <node id="San Diego Padres" label="San Diego Padres" />
+      <node id="Washington Nationals" label="Washington Nationals" />
+      <node id="Costco" label="Costco" />
+      <node id="Miami" label="Miami" />
+      <node id="Chicago Bulls" label="Chicago Bulls" />
+      <node id="Altcoins" label="Altcoins" />
+      <node id="Greece" label="Greece" />
+      <node id="Fashion" label="Fashion" />
+      <node id="CVS" label="CVS" />
+      <node id="BMW" label="BMW" />
+      <node id="Social-ESG" label="Social-ESG" />
+      <node id="Shell" label="Shell" />
+      <node id="Wyoming" label="Wyoming" />
+      <node id="College Sports" label="College Sports" />
+      <node id="Documentaries" label="Documentaries" />
+      <node id="UEFA" label="UEFA" />
+      <node id="Christmas" label="Christmas" />
+      <node id="Hong Kong" label="Hong Kong" />
+      <node id="Houston Astros" label="Houston Astros" />
+      <node id="Anthony Davis" label="Anthony Davis" />
+      <node id="Hockey" label="Hockey" />
+      <node id="DNC" label="DNC" />
+      <node id="Raleigh" label="Raleigh" />
+      <node id="Brexit" label="Brexit" />
+      <node id="Playstation" label="Playstation" />
+      <node id="Aston Martin" label="Aston Martin" />
+      <node id="Brad Pitt" label="Brad Pitt" />
+      <node id="Super Bowl" label="Super Bowl" />
+      <node id="NASA" label="NASA" />
+      <node id="Starbucks" label="Starbucks" />
+      <node id="Lawsuits" label="Lawsuits" />
+      <node id="FLOTUS" label="FLOTUS" />
+      <node id="Missouri" label="Missouri" />
+      <node id="Philippines" label="Philippines" />
+      <node id="Justin Verlander" label="Justin Verlander" />
+      <node id="Wrestling" label="Wrestling" />
+      <node id="Princess Diana" label="Princess Diana" />
+      <node id="World Politics" label="World Politics" />
+      <node id="North Carolina" label="North Carolina" />
+      <node id="MLB" label="MLB" />
+      <node id="Cycling" label="Cycling" />
+      <node id="Climate Change" label="Climate Change" />
+      <node id="FIFA World Cup" label="FIFA World Cup" />
+      <node id="Juice Wrld" label="Juice Wrld" />
+      <node id="Lebron James" label="Lebron James" />
+      <node id="Holidays" label="Holidays" />
+      <node id="NSA" label="NSA" />
+    </nodes>
+    <edges>
+      <edge source="Basketball" target="Football" id="0" weight="1" />
+      <edge source="Basketball" target="Academia" id="1" weight="4" />
+      <edge source="Basketball" target="NBA" id="2" weight="20" />
+      <edge source="Basketball" target="Maryland" id="3" weight="1" />
+      <edge source="Basketball" target="Anthony Davis" id="4" weight="1" />
+      <edge source="Basketball" target="Sports Figures" id="5" weight="4" />
+      <edge source="Basketball" target="Los Angeles Lakers" id="6" weight="2" />
+      <edge source="Basketball" target="Michigan" id="7" weight="1" />
+      <edge source="Basketball" target="Memphis" id="8" weight="2" />
+      <edge source="Basketball" target="Tennessee" id="9" weight="2" />
+      <edge source="Basketball" target="March Madness" id="10" weight="2" />
+      <edge source="Basketball" target="Iowa" id="11" weight="1" />
+      <edge source="Basketball" target="Pennsylvania State University" id="12" weight="2" />
+      <edge source="Basketball" target="Louisiana State University" id="13" weight="1" />
+      <edge source="Basketball" target="Big Ten" id="14" weight="1" />
+      <edge source="Basketball" target="Florida" id="15" weight="2" />
+      <edge source="Basketball" target="Miami" id="16" weight="1" />
+      <edge source="Basketball" target="Chicago Bulls" id="17" weight="1" />
+      <edge source="Basketball" target="Chicago" id="18" weight="1" />
+      <edge source="Basketball" target="Illinois" id="19" weight="2" />
+      <edge source="Basketball" target="Georgia" id="20" weight="1" />
+      <edge source="Basketball" target="College Sports" id="21" weight="3" />
+      <edge source="Basketball" target="New York Knicks" id="22" weight="1" />
+      <edge source="Basketball" target="Miami Heat" id="23" weight="1" />
+      <edge source="Basketball" target="Florida Panthers" id="24" weight="1" />
+      <edge source="Basketball" target="NHL" id="25" weight="1" />
+      <edge source="Basketball" target="Hockey" id="26" weight="1" />
+      <edge source="Basketball" target="WNBA" id="27" weight="3" />
+      <edge source="Basketball" target="Los Angeles Clippers" id="28" weight="1" />
+      <edge source="Basketball" target="Dallas Mavericks" id="29" weight="1" />
+      <edge source="Basketball" target="Lebron James" id="30" weight="1" />
+      <edge source="Basketball" target="Ja Morant" id="31" weight="1" />
+      <edge source="Basketball" target="Colorado" id="32" weight="1" />
+      <edge source="Basketball" target="Cleveland Cavaliers" id="33" weight="1" />
+      <edge source="Basketball" target="Washington Wizards" id="34" weight="1" />
+      <edge source="Basketball" target="Philadelphia 76ers" id="35" weight="1" />
+      <edge source="Basketball" target="Pennsylvania" id="36" weight="1" />
+      <edge source="Basketball" target="Milwaukee Bucks" id="37" weight="1" />
+      <edge source="Basketball" target="Orlando Magic" id="38" weight="1" />
+      <edge source="Basketball" target="Orlando" id="39" weight="1" />
+      <edge source="Basketball" target="Milwaukee" id="40" weight="1" />
+      <edge source="Basketball" target="Wisconsin" id="41" weight="1" />
+      <edge source="Basketball" target="Arizona" id="42" weight="1" />
+      <edge source="Basketball" target="Phoenix" id="43" weight="1" />
+      <edge source="Basketball" target="Phoenix Suns" id="44" weight="1" />
+      <edge source="Basketball" target="San Diego" id="45" weight="1" />
+      <edge source="Basketball" target="California" id="46" weight="1" />
+      <edge source="YouTube" target="Facebook" id="47" weight="1" />
+      <edge source="America's Got Talent" target="TV" id="48" weight="1" />
+      <edge source="Javier Baez" target="Baseball" id="49" weight="1" />
+      <edge source="Javier Baez" target="Chicago Cubs" id="50" weight="1" />
+      <edge source="Javier Baez" target="MLB" id="51" weight="1" />
+      <edge source="Javier Baez" target="Chicago" id="52" weight="1" />
+      <edge source="Javier Baez" target="Illinois" id="53" weight="1" />
+      <edge source="Javier Baez" target="Sports Figures" id="54" weight="1" />
+      <edge source="Genesis Motor" target="Reviews" id="55" weight="1" />
+      <edge source="Wisconsin" target="NBA" id="56" weight="1" />
+      <edge source="Wisconsin" target="Milwaukee Bucks" id="57" weight="1" />
+      <edge source="Wisconsin" target="Orlando Magic" id="58" weight="1" />
+      <edge source="Wisconsin" target="Florida" id="59" weight="1" />
+      <edge source="Wisconsin" target="Orlando" id="60" weight="1" />
+      <edge source="Wisconsin" target="Milwaukee" id="61" weight="1" />
+      <edge source="Inflation" target="Joe Biden" id="62" weight="1" />
+      <edge source="Inflation" target="Ukraine" id="63" weight="1" />
+      <edge source="Singapore" target="AI" id="64" weight="1" />
+      <edge source="Singapore" target="Startups" id="65" weight="1" />
+      <edge source="Singapore" target="Google" id="66" weight="1" />
+      <edge source="Singapore" target="IBM" id="67" weight="1" />
+      <edge source="Activism" target="Markets" id="68" weight="1" />
+      <edge source="Louisville" target="Football" id="69" weight="1" />
+      <edge source="Louisville" target="College Sports" id="70" weight="1" />
+      <edge source="Louisville" target="Kentucky" id="71" weight="1" />
+      <edge source="ESG" target="Green Energy" id="72" weight="2" />
+      <edge source="ESG" target="Electric Vehicles" id="73" weight="1" />
+      <edge source="ESG" target="Aviation" id="74" weight="1" />
+      <edge source="Nevada" target="Bruno Mars" id="75" weight="1" />
+      <edge source="Nevada" target="Las Vegas" id="76" weight="2" />
+      <edge source="Nevada" target="Holidays" id="77" weight="1" />
+      <edge source="Nevada" target="NYE" id="78" weight="1" />
+      <edge source="Bahamas" target="Caribbean Islands" id="79" weight="1" />
+      <edge source="Theater" target="Reviews" id="80" weight="2" />
+      <edge source="Theater" target="Arkansas" id="81" weight="1" />
+      <edge source="San Francisco 49ers" target="Drew Brees" id="82" weight="1" />
+      <edge source="San Francisco 49ers" target="Sports Figures" id="83" weight="1" />
+      <edge source="San Francisco 49ers" target="Football" id="84" weight="3" />
+      <edge source="San Francisco 49ers" target="NFL" id="85" weight="3" />
+      <edge source="San Francisco 49ers" target="San Francisco" id="86" weight="2" />
+      <edge source="San Francisco 49ers" target="Josh Allen" id="87" weight="1" />
+      <edge source="IBM" target="NYC" id="88" weight="2" />
+      <edge source="IBM" target="Japan" id="89" weight="3" />
+      <edge source="IBM" target="Daimler" id="90" weight="1" />
+      <edge source="IBM" target="Bitcoin" id="91" weight="1" />
+      <edge source="IBM" target="Cryptocurrency" id="92" weight="2" />
+      <edge source="IBM" target="North Carolina" id="93" weight="1" />
+      <edge source="IBM" target="Raleigh" id="94" weight="1" />
+      <edge source="IBM" target="Startups" id="95" weight="4" />
+      <edge source="IBM" target="Google" id="96" weight="7" />
+      <edge source="IBM" target="India" id="97" weight="1" />
+      <edge source="IBM" target="Airlines" id="98" weight="2" />
+      <edge source="IBM" target="Aviation" id="99" weight="2" />
+      <edge source="IBM" target="Delta Air Lines" id="100" weight="1" />
+      <edge source="IBM" target="Academia" id="101" weight="12" />
+      <edge source="IBM" target="Business Leaders" id="102" weight="3" />
+      <edge source="IBM" target="AI" id="103" weight="10" />
+      <edge source="IBM" target="Germany" id="104" weight="2" />
+      <edge source="IBM" target="European Union" id="105" weight="1" />
+      <edge source="IBM" target="Amazon" id="106" weight="3" />
+      <edge source="IBM" target="Amazon Prime" id="107" weight="3" />
+      <edge source="IBM" target="Microsoft" id="108" weight="6" />
+      <edge source="IBM" target="Oracle" id="109" weight="1" />
+      <edge source="IBM" target="Samsung" id="110" weight="1" />
+      <edge source="IBM" target="Markets" id="111" weight="3" />
+      <edge source="IBM" target="North America" id="112" weight="2" />
+      <edge source="IBM" target="Australia" id="113" weight="2" />
+      <edge source="IBM" target="Boeing" id="114" weight="1" />
+      <edge source="IBM" target="Taiwan" id="115" weight="1" />
+      <edge source="IBM" target="Exxon" id="116" weight="1" />
+      <edge source="IBM" target="Barclays Bank" id="117" weight="1" />
+      <edge source="IBM" target="5G" id="118" weight="1" />
+      <edge source="IBM" target="FinTech" id="119" weight="1" />
+      <edge source="IBM" target="Unemployment" id="120" weight="1" />
+      <edge source="IBM" target="UPS" id="121" weight="1" />
+      <edge source="IBM" target="WeWork" id="122" weight="1" />
+      <edge source="IBM" target="Chicago" id="123" weight="1" />
+      <edge source="IBM" target="Illinois" id="124" weight="1" />
+      <edge source="IBM" target="Massachusetts" id="125" weight="2" />
+      <edge source="IBM" target="Virginia" id="126" weight="1" />
+      <edge source="IBM" target="Mitsubishi" id="127" weight="2" />
+      <edge source="IBM" target="JPMorgan" id="128" weight="1" />
+      <edge source="IBM" target="Africa" id="129" weight="4" />
+      <edge source="IBM" target="New York" id="130" weight="1" />
+      <edge source="IBM" target="Wells Fargo" id="131" weight="2" />
+      <edge source="Taylor Swift" target="Music" id="132" weight="1" />
+      <edge source="Mohamed Salah" target="United Kingdom" id="133" weight="1" />
+      <edge source="Mohamed Salah" target="Sports Figures" id="134" weight="1" />
+      <edge source="Chicago" target="NFL" id="135" weight="3" />
+      <edge source="Chicago" target="Illinois" id="136" weight="9" />
+      <edge source="Chicago" target="Chicago Bears" id="137" weight="3" />
+      <edge source="Chicago" target="Football" id="138" weight="3" />
+      <edge source="Chicago" target="Baseball" id="139" weight="1" />
+      <edge source="Chicago" target="Chicago Cubs" id="140" weight="1" />
+      <edge source="Chicago" target="MLB" id="141" weight="1" />
+      <edge source="Chicago" target="Sports Figures" id="142" weight="1" />
+      <edge source="Chicago" target="Hockey" id="143" weight="1" />
+      <edge source="Chicago" target="Chicago Blackhawks" id="144" weight="1" />
+      <edge source="Chicago" target="NHL" id="145" weight="1" />
+      <edge source="Chicago" target="Chicago Bulls" id="146" weight="1" />
+      <edge source="Chicago" target="NBA" id="147" weight="1" />
+      <edge source="Chicago" target="Kansas" id="148" weight="1" />
+      <edge source="Chicago" target="Kansas City" id="149" weight="1" />
+      <edge source="Chicago" target="Missouri" id="150" weight="1" />
+      <edge source="Goldman Sachs" target="Markets" id="151" weight="2" />
+      <edge source="Oakland" target="NFL" id="152" weight="2" />
+      <edge source="Oakland" target="Football" id="153" weight="2" />
+      <edge source="Oakland" target="Las Vegas Raiders" id="154" weight="2" />
+      <edge source="AI" target="5G" id="155" weight="2" />
+      <edge source="AI" target="Google" id="156" weight="5" />
+      <edge source="AI" target="Microsoft" id="157" weight="2" />
+      <edge source="AI" target="India" id="158" weight="3" />
+      <edge source="AI" target="France" id="159" weight="1" />
+      <edge source="AI" target="Spain" id="160" weight="1" />
+      <edge source="AI" target="Cryptocurrency" id="161" weight="3" />
+      <edge source="AI" target="Markets" id="162" weight="1" />
+      <edge source="AI" target="Shopping" id="163" weight="1" />
+      <edge source="AI" target="Electronics" id="164" weight="1" />
+      <edge source="AI" target="Startups" id="165" weight="1" />
+      <edge source="AI" target="Business Leaders" id="166" weight="1" />
+      <edge source="AI" target="United Kingdom" id="167" weight="2" />
+      <edge source="AI" target="Asian" id="168" weight="1" />
+      <edge source="AI" target="Oracle" id="169" weight="1" />
+      <edge source="AI" target="Australia" id="170" weight="1" />
+      <edge source="AI" target="Traffic" id="171" weight="1" />
+      <edge source="AI" target="Podcasts" id="172" weight="1" />
+      <edge source="AI" target="China" id="173" weight="1" />
+      <edge source="AI" target="Blockchain" id="174" weight="1" />
+      <edge source="AI" target="Security" id="175" weight="1" />
+      <edge source="AI" target="Security Breach" id="176" weight="1" />
+      <edge source="AI" target="NSA" id="177" weight="1" />
+      <edge source="AI" target="Academia" id="178" weight="3" />
+      <edge source="AI" target="Wells Fargo" id="179" weight="2" />
+      <edge source="AI" target="Germany" id="180" weight="1" />
+      <edge source="AI" target="Bitcoin" id="181" weight="1" />
+      <edge source="AI" target="Dogecoin" id="182" weight="1" />
+      <edge source="AI" target="Media" id="183" weight="1" />
+      <edge source="Twitter" target="Football" id="184" weight="1" />
+      <edge source="Twitter" target="Missouri" id="185" weight="1" />
+      <edge source="Twitter" target="Tweets" id="186" weight="2" />
+      <edge source="Android" target="Google" id="187" weight="3" />
+      <edge source="Android" target="Apple" id="188" weight="1" />
+      <edge source="Android" target="Electronics" id="189" weight="1" />
+      <edge source="Android" target="iPhone" id="190" weight="1" />
+      <edge source="Samsung" target="5G" id="191" weight="1" />
+      <edge source="Samsung" target="Electronics" id="192" weight="4" />
+      <edge source="Samsung" target="Mitsubishi" id="193" weight="1" />
+      <edge source="Samsung" target="Startups" id="194" weight="1" />
+      <edge source="Samsung" target="Academia" id="195" weight="1" />
+      <edge source="Samsung" target="Gaming" id="196" weight="1" />
+      <edge source="Samsung" target="PS5" id="197" weight="1" />
+      <edge source="Samsung" target="Microsoft" id="198" weight="1" />
+      <edge source="Samsung" target="Xbox" id="199" weight="1" />
+      <edge source="Samsung" target="India" id="200" weight="1" />
+      <edge source="Samsung" target="Apple" id="201" weight="1" />
+      <edge source="Samsung" target="iPhone" id="202" weight="1" />
+      <edge source="Samsung" target="Cryptocurrency" id="203" weight="1" />
+      <edge source="USC" target="Academia" id="204" weight="3" />
+      <edge source="USC" target="Football" id="205" weight="2" />
+      <edge source="Dave Chappelle" target="TV" id="206" weight="1" />
+      <edge source="Dave Chappelle" target="Saturday Night Live" id="207" weight="1" />
+      <edge source="Mother's Day" target="Holidays" id="208" weight="1" />
+      <edge source="Reviews" target="Amazon" id="209" weight="1" />
+      <edge source="Reviews" target="AWS" id="210" weight="1" />
+      <edge source="Poland" target="Netflix" id="211" weight="1" />
+      <edge source="Poland" target="Stranger Things" id="212" weight="1" />
+      <edge source="Poland" target="TV" id="213" weight="1" />
+      <edge source="Horoscopes" target="Astrology" id="214" weight="1" />
+      <edge source="Seattle" target="Indiana" id="215" weight="1" />
+      <edge source="Seattle" target="Washington" id="216" weight="4" />
+      <edge source="Seattle" target="Amazon" id="217" weight="1" />
+      <edge source="Seattle" target="Amazon Prime" id="218" weight="1" />
+      <edge source="Seattle" target="Microsoft" id="219" weight="1" />
+      <edge source="Chrissy Teigen" target="John Legend" id="220" weight="1" />
+      <edge source="Vietnam" target="Soccer" id="221" weight="1" />
+      <edge source="Arizona" target="Tucson" id="222" weight="2" />
+      <edge source="Arizona" target="Alabama" id="223" weight="1" />
+      <edge source="Arizona" target="Missouri" id="224" weight="1" />
+      <edge source="Arizona" target="NBA" id="225" weight="1" />
+      <edge source="Arizona" target="Phoenix" id="226" weight="2" />
+      <edge source="Arizona" target="Phoenix Suns" id="227" weight="1" />
+      <edge source="Arizona" target="Hockey" id="228" weight="1" />
+      <edge source="BTS" target="TV" id="229" weight="1" />
+      <edge source="BTS" target="Disney" id="230" weight="1" />
+      <edge source="BTS" target="Katy Perry" id="231" weight="1" />
+      <edge source="Electric Vehicles" target="Illinois" id="232" weight="1" />
+      <edge source="Electric Vehicles" target="Green Energy" id="233" weight="3" />
+      <edge source="Electric Vehicles" target="Atlanta" id="234" weight="1" />
+      <edge source="Electric Vehicles" target="Georgia" id="235" weight="1" />
+      <edge source="Electric Vehicles" target="Energy Storage" id="236" weight="1" />
+      <edge source="Electric Vehicles" target="India" id="237" weight="1" />
+      <edge source="Stranger Things" target="Netflix" id="238" weight="2" />
+      <edge source="Stranger Things" target="TV" id="239" weight="2" />
+      <edge source="World Series" target="Joe Biden" id="240" weight="1" />
+      <edge source="World Series" target="Academia" id="241" weight="1" />
+      <edge source="World Series" target="Baseball" id="242" weight="1" />
+      <edge source="World Series" target="Houston Astros" id="243" weight="1" />
+      <edge source="World Series" target="MLB" id="244" weight="1" />
+      <edge source="World Series" target="New York Yankees" id="245" weight="1" />
+      <edge source="Earthquakes" target="China" id="246" weight="1" />
+      <edge source="NYE" target="Las Vegas" id="247" weight="1" />
+      <edge source="NYE" target="Holidays" id="248" weight="1" />
+      <edge source="Delta Air Lines" target="Airlines" id="249" weight="1" />
+      <edge source="Delta Air Lines" target="Aviation" id="250" weight="1" />
+      <edge source="Cobra Kai" target="TV" id="251" weight="3" />
+      <edge source="New England Patriots" target="Football" id="252" weight="1" />
+      <edge source="New England Patriots" target="NFL" id="253" weight="1" />
+      <edge source="Bose" target="Electronics" id="254" weight="1" />
+      <edge source="Bose" target="Podcasts" id="255" weight="1" />
+      <edge source="St. Paul" target="Music" id="256" weight="1" />
+      <edge source="St. Paul" target="Christmas" id="257" weight="1" />
+      <edge source="St. Paul" target="Holidays" id="258" weight="1" />
+      <edge source="St. Paul" target="Minnesota" id="259" weight="1" />
+      <edge source="Los Angeles Clippers" target="NBA" id="260" weight="1" />
+      <edge source="Illinois" target="Football" id="261" weight="5" />
+      <edge source="Illinois" target="NFL" id="262" weight="3" />
+      <edge source="Illinois" target="Chicago Bears" id="263" weight="3" />
+      <edge source="Illinois" target="Christianity" id="264" weight="1" />
+      <edge source="Illinois" target="Baseball" id="265" weight="1" />
+      <edge source="Illinois" target="Chicago Cubs" id="266" weight="1" />
+      <edge source="Illinois" target="MLB" id="267" weight="1" />
+      <edge source="Illinois" target="Sports Figures" id="268" weight="1" />
+      <edge source="Illinois" target="College Sports" id="269" weight="1" />
+      <edge source="Illinois" target="Green Energy" id="270" weight="1" />
+      <edge source="Illinois" target="Hockey" id="271" weight="1" />
+      <edge source="Illinois" target="Chicago Blackhawks" id="272" weight="1" />
+      <edge source="Illinois" target="NHL" id="273" weight="1" />
+      <edge source="Illinois" target="Chicago Bulls" id="274" weight="1" />
+      <edge source="Illinois" target="NBA" id="275" weight="1" />
+      <edge source="Illinois" target="Kansas" id="276" weight="1" />
+      <edge source="Illinois" target="Kansas City" id="277" weight="1" />
+      <edge source="Illinois" target="Missouri" id="278" weight="1" />
+      <edge source="Illinois" target="Academia" id="279" weight="1" />
+      <edge source="Illinois" target="University of Illinois" id="280" weight="1" />
+      <edge source="Turkish" target="Airlines" id="281" weight="1" />
+      <edge source="Turkish" target="Aviation" id="282" weight="1" />
+      <edge source="Turkish" target="Turkey" id="283" weight="1" />
+      <edge source="Cyberpunk 2077" target="Bill Gates" id="284" weight="1" />
+      <edge source="Cyberpunk 2077" target="Business Leaders" id="285" weight="1" />
+      <edge source="Cyberpunk 2077" target="Gaming" id="286" weight="2" />
+      <edge source="Cyberpunk 2077" target="Nvidia" id="287" weight="1" />
+      <edge source="Alibaba" target="Business Leaders" id="288" weight="1" />
+      <edge source="Alibaba" target="Blockchain" id="289" weight="1" />
+      <edge source="Alibaba" target="UAE" id="290" weight="1" />
+      <edge source="Alibaba" target="Markets" id="291" weight="1" />
+      <edge source="Alibaba" target="China" id="292" weight="1" />
+      <edge source="IPO" target="Markets" id="293" weight="5" />
+      <edge source="IPO" target="FinTech" id="294" weight="1" />
+      <edge source="IPO" target="Porsche" id="295" weight="1" />
+      <edge source="IPO" target="Volkswagen" id="296" weight="1" />
+      <edge source="Los Angeles" target="California" id="297" weight="4" />
+      <edge source="Los Angeles" target="LGBTQ" id="298" weight="1" />
+      <edge source="Los Angeles" target="Social Issues" id="299" weight="1" />
+      <edge source="Los Angeles" target="Shopping" id="300" weight="1" />
+      <edge source="Los Angeles" target="Football" id="301" weight="1" />
+      <edge source="Los Angeles" target="NFL" id="302" weight="1" />
+      <edge source="Los Angeles" target="Pittsburgh Steelers" id="303" weight="1" />
+      <edge source="Los Angeles" target="Series A" id="304" weight="1" />
+      <edge source="Los Angeles" target="Startups" id="305" weight="1" />
+      <edge source="Los Angeles" target="Venture Capital" id="306" weight="1" />
+      <edge source="Los Angeles" target="NHL" id="307" weight="1" />
+      <edge source="Los Angeles" target="Los Angeles Kings" id="308" weight="1" />
+      <edge source="Los Angeles" target="Hockey" id="309" weight="1" />
+      <edge source="MacBooks" target="Shopping" id="310" weight="1" />
+      <edge source="MacBooks" target="Electronics" id="311" weight="1" />
+      <edge source="Oregon" target="Football" id="312" weight="1" />
+      <edge source="Oregon" target="NFL" id="313" weight="1" />
+      <edge source="Rafael Nadal" target="Sports Figures" id="314" weight="1" />
+      <edge source="Rafael Nadal" target="Novak Djokovic" id="315" weight="1" />
+      <edge source="Rafael Nadal" target="Tennis" id="316" weight="1" />
+      <edge source="Movies" target="Ryan Gosling" id="317" weight="1" />
+      <edge source="Movies" target="Netflix" id="318" weight="1" />
+      <edge source="Movies" target="LGBTQ" id="319" weight="1" />
+      <edge source="Movies" target="Chadwick Boseman" id="320" weight="1" />
+      <edge source="Movies" target="Coronavirus" id="321" weight="1" />
+      <edge source="Movies" target="Media" id="322" weight="1" />
+      <edge source="Movies" target="Spain" id="323" weight="1" />
+      <edge source="Movies" target="United Kingdom" id="324" weight="1" />
+      <edge source="Movies" target="Documentaries" id="325" weight="1" />
+      <edge source="Movies" target="HBO" id="326" weight="1" />
+      <edge source="Movies" target="TV" id="327" weight="1" />
+      <edge source="Movies" target="Greece" id="328" weight="1" />
+      <edge source="Movies" target="Asia" id="329" weight="3" />
+      <edge source="Movies" target="Japan" id="330" weight="1" />
+      <edge source="Movies" target="Taiwan" id="331" weight="1" />
+      <edge source="Movies" target="India" id="332" weight="1" />
+      <edge source="Movies" target="Dennis Quaid" id="333" weight="1" />
+      <edge source="Movies" target="Kristen Stewart" id="334" weight="1" />
+      <edge source="Movies" target="Princess Diana" id="335" weight="1" />
+      <edge source="Movies" target="Royal Family" id="336" weight="1" />
+      <edge source="Movies" target="Gaming" id="337" weight="1" />
+      <edge source="Movies" target="Warner Bros" id="338" weight="1" />
+      <edge source="Movies" target="KISS" id="339" weight="1" />
+      <edge source="Movies" target="Bollywood" id="340" weight="1" />
+      <edge source="WrestleMania" target="Wrestling" id="341" weight="1" />
+      <edge source="WrestleMania" target="WWE" id="342" weight="1" />
+      <edge source="Coca-Cola" target="Food &amp; Drink" id="343" weight="1" />
+      <edge source="Motorsports" target="Barcelona" id="344" weight="1" />
+      <edge source="Motorsports" target="Spain" id="345" weight="1" />
+      <edge source="Motorsports" target="Formula 1" id="346" weight="3" />
+      <edge source="Motorsports" target="Aston Martin" id="347" weight="1" />
+      <edge source="Philadelphia Phillies" target="San Diego Padres" id="348" weight="1" />
+      <edge source="Philadelphia Phillies" target="Baseball" id="349" weight="1" />
+      <edge source="Philadelphia Phillies" target="MLB" id="350" weight="1" />
+      <edge source="Kristen Stewart" target="Princess Diana" id="351" weight="1" />
+      <edge source="Kristen Stewart" target="Royal Family" id="352" weight="1" />
+      <edge source="Nebraska" target="Soccer" id="353" weight="1" />
+      <edge source="Germany" target="European Union" id="354" weight="2" />
+      <edge source="Germany" target="Economy" id="355" weight="1" />
+      <edge source="Germany" target="India" id="356" weight="1" />
+      <edge source="Kroger" target="Coronavirus" id="357" weight="2" />
+      <edge source="Kroger" target="CVS" id="358" weight="1" />
+      <edge source="Kroger" target="Walgreens" id="359" weight="1" />
+      <edge source="Kroger" target="Walmart" id="360" weight="1" />
+      <edge source="Thailand" target="FinTech" id="361" weight="1" />
+      <edge source="Thailand" target="Malaysia" id="362" weight="1" />
+      <edge source="Minneapolis" target="Minnesota" id="363" weight="1" />
+      <edge source="New Mexico" target="Academia" id="364" weight="1" />
+      <edge source="Snoop Dogg" target="TV" id="365" weight="1" />
+      <edge source="Music" target="Country Music" id="366" weight="1" />
+      <edge source="Music" target="Shania Twain" id="367" weight="1" />
+      <edge source="Music" target="Drake" id="368" weight="1" />
+      <edge source="Music" target="TV" id="369" weight="2" />
+      <edge source="Music" target="New York" id="370" weight="1" />
+      <edge source="Music" target="Academia" id="371" weight="1" />
+      <edge source="Music" target="Sony" id="372" weight="1" />
+      <edge source="Music" target="Coronavirus" id="373" weight="2" />
+      <edge source="Music" target="Spotify" id="374" weight="1" />
+      <edge source="Music" target="Christmas" id="375" weight="1" />
+      <edge source="Music" target="Holidays" id="376" weight="1" />
+      <edge source="Music" target="Minnesota" id="377" weight="1" />
+      <edge source="Music" target="Grammy Awards" id="378" weight="1" />
+      <edge source="Music" target="Raggae" id="379" weight="2" />
+      <edge source="Music" target="Texas" id="380" weight="1" />
+      <edge source="Markets" target="JPMorgan" id="381" weight="3" />
+      <edge source="Markets" target="Business Leaders" id="382" weight="4" />
+      <edge source="Markets" target="Detroit" id="383" weight="1" />
+      <edge source="Markets" target="Michigan" id="384" weight="1" />
+      <edge source="Markets" target="Ukraine" id="385" weight="1" />
+      <edge source="Markets" target="FinTech" id="386" weight="2" />
+      <edge source="Markets" target="Malaysia" id="387" weight="1" />
+      <edge source="Markets" target="CVS" id="388" weight="1" />
+      <edge source="Markets" target="Space" id="389" weight="1" />
+      <edge source="Markets" target="Aerospace" id="390" weight="1" />
+      <edge source="Markets" target="Coronavirus" id="391" weight="1" />
+      <edge source="Markets" target="Asian" id="392" weight="1" />
+      <edge source="Markets" target="Shopping" id="393" weight="1" />
+      <edge source="Markets" target="Walmart" id="394" weight="1" />
+      <edge source="Markets" target="Real Estate" id="395" weight="1" />
+      <edge source="Markets" target="United Kingdom" id="396" weight="1" />
+      <edge source="Markets" target="Australia" id="397" weight="1" />
+      <edge source="Markets" target="Climate Change" id="398" weight="1" />
+      <edge source="Markets" target="Dow Jones" id="399" weight="1" />
+      <edge source="Markets" target="NASDAQ" id="400" weight="17" />
+      <edge source="Markets" target="Texas" id="401" weight="1" />
+      <edge source="Markets" target="NYSE" id="402" weight="9" />
+      <edge source="Markets" target="Porsche" id="403" weight="1" />
+      <edge source="Markets" target="Volkswagen" id="404" weight="1" />
+      <edge source="Markets" target="China" id="405" weight="2" />
+      <edge source="Markets" target="Earnings Calls" id="406" weight="2" />
+      <edge source="Markets" target="Costco" id="407" weight="1" />
+      <edge source="Markets" target="Cryptocurrency" id="408" weight="1" />
+      <edge source="Markets" target="Hong Kong" id="409" weight="1" />
+      <edge source="Markets" target="Economy" id="410" weight="1" />
+      <edge source="Indianapolis Colts" target="NFL" id="411" weight="1" />
+      <edge source="Indianapolis Colts" target="Cleveland" id="412" weight="1" />
+      <edge source="Indianapolis Colts" target="Cleveland Browns" id="413" weight="1" />
+      <edge source="Indianapolis Colts" target="Football" id="414" weight="1" />
+      <edge source="Indianapolis Colts" target="Ohio" id="415" weight="1" />
+      <edge source="Indianapolis Colts" target="Indiana" id="416" weight="1" />
+      <edge source="Indianapolis Colts" target="Indianapolis" id="417" weight="1" />
+      <edge source="Malaysia" target="FinTech" id="418" weight="1" />
+      <edge source="Malaysia" target="Huawei" id="419" weight="1" />
+      <edge source="Insurance" target="NFL" id="420" weight="1" />
+      <edge source="Insurance" target="Drake" id="421" weight="1" />
+      <edge source="Insurance" target="Football" id="422" weight="1" />
+      <edge source="Insurance" target="Super Bowl" id="423" weight="1" />
+      <edge source="Insurance" target="State Farm" id="424" weight="1" />
+      <edge source="Terrorism" target="Crime" id="425" weight="1" />
+      <edge source="Terrorism" target="Nancy Pelosi" id="426" weight="1" />
+      <edge source="World Cup" target="TV" id="427" weight="1" />
+      <edge source="World Cup" target="Australia" id="428" weight="1" />
+      <edge source="World Cup" target="FIFA World Cup" id="429" weight="2" />
+      <edge source="World Cup" target="Soccer" id="430" weight="1" />
+      <edge source="World Cup" target="Belgium" id="431" weight="1" />
+      <edge source="World Cup" target="Canada" id="432" weight="1" />
+      <edge source="World Cup" target="European Football" id="433" weight="1" />
+      <edge source="World Cup" target="FIFA" id="434" weight="1" />
+      <edge source="World Cup" target="Oil &amp; Gas" id="435" weight="1" />
+      <edge source="WeWork" target="5G" id="436" weight="1" />
+      <edge source="WeWork" target="FinTech" id="437" weight="1" />
+      <edge source="WeWork" target="Unemployment" id="438" weight="1" />
+      <edge source="WeWork" target="UPS" id="439" weight="1" />
+      <edge source="Bellator MMA" target="MMA" id="440" weight="1" />
+      <edge source="Music Festivals" target="SXSW" id="441" weight="3" />
+      <edge source="Music Festivals" target="Podcasts" id="442" weight="2" />
+      <edge source="Cleveland" target="NFL" id="443" weight="1" />
+      <edge source="Cleveland" target="Cleveland Browns" id="444" weight="1" />
+      <edge source="Cleveland" target="Football" id="445" weight="1" />
+      <edge source="Cleveland" target="Ohio" id="446" weight="2" />
+      <edge source="Cleveland" target="Indiana" id="447" weight="1" />
+      <edge source="Cleveland" target="Indianapolis" id="448" weight="1" />
+      <edge source="Cleveland" target="Golf" id="449" weight="1" />
+      <edge source="Detroit" target="Business Leaders" id="450" weight="1" />
+      <edge source="Detroit" target="Michigan" id="451" weight="1" />
+      <edge source="iPhone" target="Apple" id="452" weight="9" />
+      <edge source="iPhone" target="Electronics" id="453" weight="10" />
+      <edge source="iPhone" target="Black Friday" id="454" weight="2" />
+      <edge source="iPhone" target="Shopping" id="455" weight="2" />
+      <edge source="iPhone" target="5G" id="456" weight="2" />
+      <edge source="iPhone" target="Academia" id="457" weight="1" />
+      <edge source="iPhone" target="Google" id="458" weight="1" />
+      <edge source="HGTV" target="TV" id="459" weight="1" />
+      <edge source="Roblox" target="Gaming" id="460" weight="1" />
+      <edge source="New York" target="Business Leaders" id="461" weight="2" />
+      <edge source="New York" target="Cryptocurrency" id="462" weight="1" />
+      <edge source="New York" target="NYC" id="463" weight="3" />
+      <edge source="New York" target="Venture Capital" id="464" weight="1" />
+      <edge source="New York" target="Wyoming" id="465" weight="1" />
+      <edge source="New York" target="Amazon" id="466" weight="1" />
+      <edge source="New York" target="Coronavirus" id="467" weight="5" />
+      <edge source="New York" target="Food &amp; Drink" id="468" weight="1" />
+      <edge source="New York" target="DNC" id="469" weight="1" />
+      <edge source="New York" target="Orlando" id="470" weight="1" />
+      <edge source="New York" target="Florida" id="471" weight="1" />
+      <edge source="Exxon" target="Climate Change" id="472" weight="1" />
+      <edge source="AstraZeneca" target="Coronavirus" id="473" weight="1" />
+      <edge source="AstraZeneca" target="Data" id="474" weight="1" />
+      <edge source="Nokia" target="5G" id="475" weight="1" />
+      <edge source="Nokia" target="Security" id="476" weight="1" />
+      <edge source="Nokia" target="Security Breach" id="477" weight="1" />
+      <edge source="Nokia" target="United Kingdom" id="478" weight="1" />
+      <edge source="Nokia" target="Vodafone" id="479" weight="1" />
+      <edge source="Cruise Lines" target="United Kingdom" id="480" weight="1" />
+      <edge source="Cruise Lines" target="NYC" id="481" weight="1" />
+      <edge source="Cleveland Browns" target="NFL" id="482" weight="1" />
+      <edge source="Cleveland Browns" target="Football" id="483" weight="1" />
+      <edge source="Cleveland Browns" target="Ohio" id="484" weight="1" />
+      <edge source="Cleveland Browns" target="Indiana" id="485" weight="1" />
+      <edge source="Cleveland Browns" target="Indianapolis" id="486" weight="1" />
+      <edge source="Blockchain" target="Amazon" id="487" weight="1" />
+      <edge source="Blockchain" target="AWS" id="488" weight="1" />
+      <edge source="Blockchain" target="Salesforce" id="489" weight="1" />
+      <edge source="Blockchain" target="5G" id="490" weight="1" />
+      <edge source="Blockchain" target="Security" id="491" weight="1" />
+      <edge source="Blockchain" target="Security Breach" id="492" weight="1" />
+      <edge source="Blockchain" target="Business Leaders" id="493" weight="1" />
+      <edge source="Blockchain" target="UAE" id="494" weight="1" />
+      <edge source="Airlines" target="Aviation" id="495" weight="12" />
+      <edge source="Airlines" target="Turkey" id="496" weight="1" />
+      <edge source="Airlines" target="Coronavirus" id="497" weight="1" />
+      <edge source="Airlines" target="Boeing" id="498" weight="3" />
+      <edge source="Airlines" target="Space" id="499" weight="1" />
+      <edge source="Airlines" target="Google" id="500" weight="1" />
+      <edge source="Airlines" target="Microsoft" id="501" weight="1" />
+      <edge source="Airlines" target="Lufthansa" id="502" weight="1" />
+      <edge source="Tennis" target="Australia" id="503" weight="1" />
+      <edge source="Tennis" target="Australian Open" id="504" weight="1" />
+      <edge source="Tennis" target="Sports Figures" id="505" weight="2" />
+      <edge source="Tennis" target="Novak Djokovic" id="506" weight="1" />
+      <edge source="Florida Panthers" target="Miami Heat" id="507" weight="1" />
+      <edge source="Florida Panthers" target="NHL" id="508" weight="1" />
+      <edge source="Florida Panthers" target="Hockey" id="509" weight="1" />
+      <edge source="Florida Panthers" target="NBA" id="510" weight="1" />
+      <edge source="G20" target="Indonesia" id="511" weight="1" />
+      <edge source="G20" target="Ukraine" id="512" weight="1" />
+      <edge source="G20" target="Russia-Ukraine War" id="513" weight="1" />
+      <edge source="Bruno Mars" target="Las Vegas" id="514" weight="1" />
+      <edge source="Oracle" target="Microsoft" id="515" weight="2" />
+      <edge source="Oracle" target="Gaming" id="516" weight="1" />
+      <edge source="Toyota" target="Hyundai" id="517" weight="1" />
+      <edge source="Cincinnati" target="Cincinnati Bengals" id="518" weight="2" />
+      <edge source="Cincinnati" target="Football" id="519" weight="2" />
+      <edge source="Cincinnati" target="NFL" id="520" weight="2" />
+      <edge source="Security" target="Security Breach" id="521" weight="13" />
+      <edge source="Security" target="Media" id="522" weight="1" />
+      <edge source="Security" target="Business Leaders" id="523" weight="2" />
+      <edge source="Security" target="US Air Force" id="524" weight="1" />
+      <edge source="Security" target="5G" id="525" weight="1" />
+      <edge source="Security" target="Cryptocurrency" id="526" weight="1" />
+      <edge source="Security" target="NSA" id="527" weight="1" />
+      <edge source="NASDAQ" target="Business Leaders" id="528" weight="1" />
+      <edge source="NASDAQ" target="Texas" id="529" weight="1" />
+      <edge source="NASDAQ" target="Cryptocurrency" id="530" weight="1" />
+      <edge source="Unemployment" target="5G" id="531" weight="1" />
+      <edge source="Unemployment" target="FinTech" id="532" weight="1" />
+      <edge source="Unemployment" target="UPS" id="533" weight="1" />
+      <edge source="Grammy Awards" target="Podcasts" id="534" weight="1" />
+      <edge source="Grammy Awards" target="Hockey" id="535" weight="1" />
+      <edge source="Football" target="Academia" id="536" weight="9" />
+      <edge source="Football" target="NBA" id="537" weight="1" />
+      <edge source="Football" target="NFL" id="538" weight="37" />
+      <edge source="Football" target="Iowa" id="539" weight="1" />
+      <edge source="Football" target="Colorado" id="540" weight="1" />
+      <edge source="Football" target="Alabama" id="541" weight="3" />
+      <edge source="Football" target="Michigan" id="542" weight="2" />
+      <edge source="Football" target="College Sports" id="543" weight="6" />
+      <edge source="Football" target="Maryland" id="544" weight="2" />
+      <edge source="Football" target="Pennsylvania State University" id="545" weight="2" />
+      <edge source="Football" target="Missouri" id="546" weight="2" />
+      <edge source="Football" target="Tweets" id="547" weight="1" />
+      <edge source="Football" target="Florida" id="548" weight="3" />
+      <edge source="Football" target="Texas" id="549" weight="4" />
+      <edge source="Football" target="Johnny Manziel" id="550" weight="1" />
+      <edge source="Football" target="Sports Figures" id="551" weight="9" />
+      <edge source="Football" target="Ohio" id="552" weight="1" />
+      <edge source="Football" target="Indiana" id="553" weight="1" />
+      <edge source="Football" target="Indianapolis" id="554" weight="1" />
+      <edge source="Football" target="Buffalo Bills" id="555" weight="2" />
+      <edge source="Football" target="Josh Allen" id="556" weight="3" />
+      <edge source="Football" target="Drew Brees" id="557" weight="1" />
+      <edge source="Football" target="San Francisco" id="558" weight="2" />
+      <edge source="Football" target="Georgia" id="559" weight="1" />
+      <edge source="Football" target="Hawaii" id="560" weight="1" />
+      <edge source="Football" target="Arkansas" id="561" weight="1" />
+      <edge source="Football" target="Utah" id="562" weight="1" />
+      <edge source="Football" target="Super Bowl" id="563" weight="3" />
+      <edge source="Football" target="Drake" id="564" weight="1" />
+      <edge source="Football" target="State Farm" id="565" weight="1" />
+      <edge source="Football" target="Tampa Bay Buccaneers" id="566" weight="1" />
+      <edge source="Football" target="Steve Sarkisian" id="567" weight="2" />
+      <edge source="Football" target="Tennessee" id="568" weight="1" />
+      <edge source="Football" target="Chicago Bears" id="569" weight="3" />
+      <edge source="Football" target="Oklahoma" id="570" weight="1" />
+      <edge source="Football" target="Virginia" id="571" weight="1" />
+      <edge source="Football" target="Christianity" id="572" weight="1" />
+      <edge source="Football" target="United Kingdom" id="573" weight="2" />
+      <edge source="Football" target="Minnesota" id="574" weight="2" />
+      <edge source="Football" target="Houston Texans" id="575" weight="1" />
+      <edge source="Football" target="Houston" id="576" weight="1" />
+      <edge source="Football" target="Kansas City Chiefs" id="577" weight="1" />
+      <edge source="Football" target="Kansas" id="578" weight="1" />
+      <edge source="Football" target="Kansas City" id="579" weight="1" />
+      <edge source="Football" target="European Football" id="580" weight="5" />
+      <edge source="Football" target="TV" id="581" weight="1" />
+      <edge source="Football" target="Fantasy Sports" id="582" weight="2" />
+      <edge source="Football" target="Las Vegas Raiders" id="583" weight="3" />
+      <edge source="Football" target="California" id="584" weight="2" />
+      <edge source="Football" target="Pittsburgh Steelers" id="585" weight="2" />
+      <edge source="Football" target="Dallas Cowboys" id="586" weight="1" />
+      <edge source="Football" target="Green Bay Packers" id="587" weight="2" />
+      <edge source="Football" target="Baltimore" id="588" weight="1" />
+      <edge source="Football" target="France" id="589" weight="1" />
+      <edge source="Football" target="Deshaun Watson" id="590" weight="1" />
+      <edge source="Football" target="Kentucky" id="591" weight="1" />
+      <edge source="Football" target="Shopping" id="592" weight="1" />
+      <edge source="Football" target="Long Beach" id="593" weight="1" />
+      <edge source="Football" target="Cincinnati Bengals" id="594" weight="2" />
+      <edge source="Football" target="T.J. Watt" id="595" weight="1" />
+      <edge source="Energy Storage" target="India" id="596" weight="1" />
+      <edge source="Pittsburgh Steelers" target="California" id="597" weight="1" />
+      <edge source="Pittsburgh Steelers" target="NFL" id="598" weight="2" />
+      <edge source="Pittsburgh Steelers" target="T.J. Watt" id="599" weight="1" />
+      <edge source="Pittsburgh Steelers" target="Sports Figures" id="600" weight="1" />
+      <edge source="Chicago Bears" target="NFL" id="601" weight="3" />
+      <edge source="Oklahoma" target="GOP" id="602" weight="1" />
+      <edge source="Oklahoma" target="College Sports" id="603" weight="1" />
+      <edge source="Oklahoma" target="Softball" id="604" weight="1" />
+      <edge source="Boston Bruins" target="Hockey" id="605" weight="1" />
+      <edge source="UFC" target="MMA" id="606" weight="1" />
+      <edge source="Buffalo Bills" target="NFL" id="607" weight="2" />
+      <edge source="Buffalo Bills" target="Josh Allen" id="608" weight="1" />
+      <edge source="Buffalo Bills" target="Sports Figures" id="609" weight="1" />
+      <edge source="Apple TV+" target="Apple" id="610" weight="1" />
+      <edge source="Apple TV+" target="TV" id="611" weight="1" />
+      <edge source="Apple TV+" target="Apple   " id="612" weight="1" />
+      <edge source="Tucson" target="Alabama" id="613" weight="1" />
+      <edge source="Tucson" target="Missouri" id="614" weight="1" />
+      <edge source="Joe Biden" target="Pope Francis" id="615" weight="1" />
+      <edge source="Joe Biden" target="Canada" id="616" weight="1" />
+      <edge source="Joe Biden" target="Justin Trudeau" id="617" weight="1" />
+      <edge source="Joe Biden" target="Immigration" id="618" weight="1" />
+      <edge source="Joe Biden" target="Social Issues" id="619" weight="1" />
+      <edge source="Joe Biden" target="Ukraine" id="620" weight="1" />
+      <edge source="Joe Biden" target="Jill Biden" id="621" weight="2" />
+      <edge source="Joe Biden" target="FLOTUS" id="622" weight="2" />
+      <edge source="Joe Biden" target="South Carolina" id="623" weight="1" />
+      <edge source="Christianity" target="Coronavirus" id="624" weight="1" />
+      <edge source="UPS" target="5G" id="625" weight="1" />
+      <edge source="UPS" target="FinTech" id="626" weight="1" />
+      <edge source="Milwaukee" target="NBA" id="627" weight="1" />
+      <edge source="Milwaukee" target="Milwaukee Bucks" id="628" weight="1" />
+      <edge source="Milwaukee" target="Orlando Magic" id="629" weight="1" />
+      <edge source="Milwaukee" target="Florida" id="630" weight="1" />
+      <edge source="Milwaukee" target="Orlando" id="631" weight="1" />
+      <edge source="Environment-ESG" target="American Red Cross" id="632" weight="1" />
+      <edge source="Environment-ESG" target="North America" id="633" weight="1" />
+      <edge source="Environment-ESG" target="Europe" id="634" weight="1" />
+      <edge source="Big Ten" target="Florida" id="635" weight="1" />
+      <edge source="Big Ten" target="Miami" id="636" weight="1" />
+      <edge source="Big Ten" target="Pennsylvania State University" id="637" weight="1" />
+      <edge source="Uber Eats" target="Cannabis" id="638" weight="1" />
+      <edge source="Uber Eats" target="Social Issues" id="639" weight="1" />
+      <edge source="Uber Eats" target="Food &amp; Drink" id="640" weight="1" />
+      <edge source="Uber Eats" target="Ridesharing" id="641" weight="1" />
+      <edge source="Uber Eats" target="Uber" id="642" weight="1" />
+      <edge source="Sony" target="Academia" id="643" weight="1" />
+      <edge source="Murder" target="Crime" id="644" weight="1" />
+      <edge source="Harry Styles" target="Elvis Presley" id="645" weight="1" />
+      <edge source="Cryptocurrency" target="Bitcoin" id="646" weight="5" />
+      <edge source="Cryptocurrency" target="Coinbase" id="647" weight="1" />
+      <edge source="Cryptocurrency" target="Business Leaders" id="648" weight="3" />
+      <edge source="Cryptocurrency" target="NYC" id="649" weight="2" />
+      <edge source="Cryptocurrency" target="Altcoins" id="650" weight="1" />
+      <edge source="Cryptocurrency" target="Zcash" id="651" weight="1" />
+      <edge source="Cryptocurrency" target="Dogecoin" id="652" weight="2" />
+      <edge source="Cryptocurrency" target="China" id="653" weight="1" />
+      <edge source="Cryptocurrency" target="India" id="654" weight="1" />
+      <edge source="Cryptocurrency" target="Academia" id="655" weight="2" />
+      <edge source="Cryptocurrency" target="NSA" id="656" weight="1" />
+      <edge source="Cryptocurrency" target="Security Breach" id="657" weight="1" />
+      <edge source="Cryptocurrency" target="Microsoft" id="658" weight="1" />
+      <edge source="Cryptocurrency" target="Deloitte" id="659" weight="1" />
+      <edge source="Cryptocurrency" target="Electronics" id="660" weight="1" />
+      <edge source="Economy" target="Real Estate" id="661" weight="1" />
+      <edge source="Economy" target="European Union" id="662" weight="1" />
+      <edge source="Economy" target="India" id="663" weight="1" />
+      <edge source="Economy" target="Hong Kong" id="664" weight="1" />
+      <edge source="Podcasts" target="Electronics" id="665" weight="1" />
+      <edge source="Podcasts" target="Golf" id="666" weight="1" />
+      <edge source="Podcasts" target="SXSW" id="667" weight="2" />
+      <edge source="Podcasts" target="Hockey" id="668" weight="1" />
+      <edge source="PS5" target="European Football" id="669" weight="1" />
+      <edge source="PS5" target="FIFA" id="670" weight="1" />
+      <edge source="PS5" target="Gaming" id="671" weight="6" />
+      <edge source="PS5" target="Xbox" id="672" weight="3" />
+      <edge source="PS5" target="Microsoft" id="673" weight="3" />
+      <edge source="PS5" target="Playstation" id="674" weight="2" />
+      <edge source="PS5" target="PS4" id="675" weight="1" />
+      <edge source="Indonesia" target="Ukraine" id="676" weight="1" />
+      <edge source="Indonesia" target="Russia-Ukraine War" id="677" weight="1" />
+      <edge source="Los Angeles Kings" target="California" id="678" weight="1" />
+      <edge source="Los Angeles Kings" target="NHL" id="679" weight="1" />
+      <edge source="Los Angeles Kings" target="Hockey" id="680" weight="1" />
+      <edge source="Evan Spiegel" target="Business Leaders" id="681" weight="1" />
+      <edge source="Evan Spiegel" target="Florida" id="682" weight="1" />
+      <edge source="Evan Spiegel" target="Orlando" id="683" weight="1" />
+      <edge source="Evan Spiegel" target="Orlando Bloom" id="684" weight="1" />
+      <edge source="Social Issues" target="Data" id="685" weight="1" />
+      <edge source="Social Issues" target="LGBTQ" id="686" weight="2" />
+      <edge source="Social Issues" target="Homelessness" id="687" weight="1" />
+      <edge source="Social Issues" target="Pandora" id="688" weight="1" />
+      <edge source="Social Issues" target="California" id="689" weight="1" />
+      <edge source="Social Issues" target="Shopping" id="690" weight="1" />
+      <edge source="Social Issues" target="Cannabis" id="691" weight="3" />
+      <edge source="Social Issues" target="Canada" id="692" weight="1" />
+      <edge source="Social Issues" target="Justin Trudeau" id="693" weight="1" />
+      <edge source="Social Issues" target="Immigration" id="694" weight="1" />
+      <edge source="Social Issues" target="Food &amp; Drink" id="695" weight="1" />
+      <edge source="Social Issues" target="Ridesharing" id="696" weight="1" />
+      <edge source="Social Issues" target="Uber" id="697" weight="1" />
+      <edge source="Social Issues" target="Abortion" id="698" weight="1" />
+      <edge source="Social Issues" target="Supreme Court" id="699" weight="1" />
+      <edge source="Mississippi" target="College Sports" id="700" weight="1" />
+      <edge source="Mississippi" target="Baseball" id="701" weight="1" />
+      <edge source="Mississippi" target="Louisiana" id="702" weight="1" />
+      <edge source="Recipes" target="Food &amp; Drink" id="703" weight="1" />
+      <edge source="FIFA" target="European Football" id="704" weight="2" />
+      <edge source="FIFA" target="Gaming" id="705" weight="1" />
+      <edge source="FIFA" target="Xbox" id="706" weight="1" />
+      <edge source="FIFA" target="Microsoft" id="707" weight="1" />
+      <edge source="FIFA" target="Soccer" id="708" weight="1" />
+      <edge source="FIFA" target="Belgium" id="709" weight="1" />
+      <edge source="FIFA" target="Canada" id="710" weight="1" />
+      <edge source="FIFA" target="FIFA World Cup" id="711" weight="1" />
+      <edge source="Tampa Bay Buccaneers" target="NFL" id="712" weight="1" />
+      <edge source="Roy Jones Jr." target="Boxing" id="713" weight="1" />
+      <edge source="Roy Jones Jr." target="Mike Tyson" id="714" weight="1" />
+      <edge source="Roy Jones Jr." target="Sports Figures" id="715" weight="1" />
+      <edge source="Volcanoes" target="China" id="716" weight="1" />
+      <edge source="Utah" target="Arkansas" id="717" weight="1" />
+      <edge source="Utah" target="Real Estate" id="718" weight="1" />
+      <edge source="Turkey" target="Aviation" id="719" weight="1" />
+      <edge source="Food &amp; Drink" target="Sweden" id="720" weight="1" />
+      <edge source="Food &amp; Drink" target="Starbucks" id="721" weight="1" />
+      <edge source="Food &amp; Drink" target="Nashville" id="722" weight="1" />
+      <edge source="Food &amp; Drink" target="Tennessee" id="723" weight="1" />
+      <edge source="Food &amp; Drink" target="Cannabis" id="724" weight="1" />
+      <edge source="Food &amp; Drink" target="Ridesharing" id="725" weight="1" />
+      <edge source="Food &amp; Drink" target="Uber" id="726" weight="1" />
+      <edge source="Food &amp; Drink" target="Holidays" id="727" weight="1" />
+      <edge source="Food &amp; Drink" target="Independence Day" id="728" weight="1" />
+      <edge source="Thanksgiving" target="Holidays" id="729" weight="1" />
+      <edge source="Louisiana State University" target="Academia" id="730" weight="1" />
+      <edge source="Las Vegas" target="Holidays" id="731" weight="1" />
+      <edge source="Venture Capital" target="United Kingdom" id="732" weight="1" />
+      <edge source="Venture Capital" target="NYC" id="733" weight="3" />
+      <edge source="Venture Capital" target="Series A" id="734" weight="3" />
+      <edge source="Venture Capital" target="Startups" id="735" weight="3" />
+      <edge source="Venture Capital" target="Seed Rounds" id="736" weight="5" />
+      <edge source="Venture Capital" target="California" id="737" weight="1" />
+      <edge source="Venture Capital" target="Business Leaders" id="738" weight="1" />
+      <edge source="Google" target="Startups" id="739" weight="1" />
+      <edge source="Google" target="NASA" id="740" weight="3" />
+      <edge source="Google" target="Space" id="741" weight="3" />
+      <edge source="Google" target="SpaceX" id="742" weight="1" />
+      <edge source="Google" target="India" id="743" weight="1" />
+      <edge source="Google" target="Apple" id="744" weight="2" />
+      <edge source="Google" target="Microsoft" id="745" weight="4" />
+      <edge source="Google" target="Aviation" id="746" weight="1" />
+      <edge source="Google" target="Boeing" id="747" weight="1" />
+      <edge source="Google" target="Electronics" id="748" weight="1" />
+      <edge source="Asia" target="Japan" id="749" weight="1" />
+      <edge source="Asia" target="Taiwan" id="750" weight="1" />
+      <edge source="Asia" target="India" id="751" weight="1" />
+      <edge source="Nashville" target="Tennessee" id="752" weight="1" />
+      <edge source="Mitsubishi" target="Academia" id="753" weight="1" />
+      <edge source="Iranian" target="China" id="754" weight="1" />
+      <edge source="Los Angeles Dodgers" target="Baseball" id="755" weight="1" />
+      <edge source="Los Angeles Dodgers" target="MLB" id="756" weight="1" />
+      <edge source="Los Angeles Dodgers" target="San Diego Padres" id="757" weight="1" />
+      <edge source="JPMorgan" target="FinTech" id="758" weight="1" />
+      <edge source="Avengers" target="Disney" id="759" weight="1" />
+      <edge source="Oprah Winfrey" target="Fashion" id="760" weight="1" />
+      <edge source="Oprah Winfrey" target="Style" id="761" weight="1" />
+      <edge source="Baltimore" target="Maryland" id="762" weight="2" />
+      <edge source="Baltimore" target="France" id="763" weight="1" />
+      <edge source="Homelessness" target="Pandora" id="764" weight="1" />
+      <edge source="NFL" target="Ohio" id="765" weight="1" />
+      <edge source="NFL" target="Indiana" id="766" weight="1" />
+      <edge source="NFL" target="Indianapolis" id="767" weight="1" />
+      <edge source="NFL" target="Josh Allen" id="768" weight="3" />
+      <edge source="NFL" target="Sports Figures" id="769" weight="5" />
+      <edge source="NFL" target="Drew Brees" id="770" weight="1" />
+      <edge source="NFL" target="San Francisco" id="771" weight="2" />
+      <edge source="NFL" target="Drake" id="772" weight="1" />
+      <edge source="NFL" target="Super Bowl" id="773" weight="2" />
+      <edge source="NFL" target="State Farm" id="774" weight="1" />
+      <edge source="NFL" target="Pennsylvania State University" id="775" weight="1" />
+      <edge source="NFL" target="College Sports" id="776" weight="1" />
+      <edge source="NFL" target="Instagram" id="777" weight="1" />
+      <edge source="NFL" target="Minnesota" id="778" weight="1" />
+      <edge source="NFL" target="Houston Texans" id="779" weight="1" />
+      <edge source="NFL" target="Houston" id="780" weight="1" />
+      <edge source="NFL" target="Texas" id="781" weight="1" />
+      <edge source="NFL" target="Kansas City Chiefs" id="782" weight="1" />
+      <edge source="NFL" target="Kansas" id="783" weight="1" />
+      <edge source="NFL" target="Kansas City" id="784" weight="1" />
+      <edge source="NFL" target="Missouri" id="785" weight="1" />
+      <edge source="NFL" target="Las Vegas Raiders" id="786" weight="3" />
+      <edge source="NFL" target="California" id="787" weight="1" />
+      <edge source="NFL" target="Dallas Cowboys" id="788" weight="1" />
+      <edge source="NFL" target="Green Bay Packers" id="789" weight="2" />
+      <edge source="NFL" target="Cincinnati Bengals" id="790" weight="2" />
+      <edge source="NFL" target="T.J. Watt" id="791" weight="1" />
+      <edge source="Uber" target="Cannabis" id="792" weight="1" />
+      <edge source="Uber" target="Ridesharing" id="793" weight="1" />
+      <edge source="Shania Twain" target="Country Music" id="794" weight="1" />
+      <edge source="Shania Twain" target="Drake" id="795" weight="1" />
+      <edge source="Texas" target="Florida" id="796" weight="1" />
+      <edge source="Texas" target="Steve Sarkisian" id="797" weight="1" />
+      <edge source="Texas" target="Sports Figures" id="798" weight="1" />
+      <edge source="Texas" target="College Sports" id="799" weight="1" />
+      <edge source="Texas" target="Houston Texans" id="800" weight="1" />
+      <edge source="Texas" target="Houston" id="801" weight="2" />
+      <edge source="Texas" target="DNC" id="802" weight="1" />
+      <edge source="Texas" target="Business Leaders" id="803" weight="1" />
+      <edge source="Memphis" target="Tennessee" id="804" weight="2" />
+      <edge source="Memphis" target="Academia" id="805" weight="1" />
+      <edge source="Memphis" target="Georgia" id="806" weight="1" />
+      <edge source="Apple Watch" target="Apple" id="807" weight="2" />
+      <edge source="Apple Watch" target="Electronics" id="808" weight="2" />
+      <edge source="Kentucky" target="Academia" id="809" weight="1" />
+      <edge source="Kentucky" target="College Sports" id="810" weight="1" />
+      <edge source="Fitness" target="Qatar" id="811" weight="1" />
+      <edge source="Georgia" target="Hawaii" id="812" weight="1" />
+      <edge source="Georgia" target="Academia" id="813" weight="1" />
+      <edge source="Georgia" target="Tennessee" id="814" weight="1" />
+      <edge source="Georgia" target="MLB" id="815" weight="3" />
+      <edge source="Georgia" target="Baseball" id="816" weight="4" />
+      <edge source="Georgia" target="Atlanta Braves" id="817" weight="2" />
+      <edge source="Georgia" target="Atlanta" id="818" weight="6" />
+      <edge source="Georgia" target="Washington Nationals" id="819" weight="1" />
+      <edge source="Georgia" target="Green Energy" id="820" weight="1" />
+      <edge source="United Kingdom" target="Data" id="821" weight="1" />
+      <edge source="United Kingdom" target="TV" id="822" weight="1" />
+      <edge source="United Kingdom" target="Coronavirus" id="823" weight="1" />
+      <edge source="United Kingdom" target="Real Estate" id="824" weight="1" />
+      <edge source="United Kingdom" target="Sports Figures" id="825" weight="1" />
+      <edge source="United Kingdom" target="Silicon Valley" id="826" weight="1" />
+      <edge source="United Kingdom" target="Vodafone" id="827" weight="1" />
+      <edge source="Ben Affleck" target="Jennifer Lopez" id="828" weight="1" />
+      <edge source="Phoenix" target="NBA" id="829" weight="1" />
+      <edge source="Phoenix" target="Phoenix Suns" id="830" weight="1" />
+      <edge source="Phoenix" target="Hockey" id="831" weight="1" />
+      <edge source="NYU" target="Academia" id="832" weight="1" />
+      <edge source="Drake" target="Country Music" id="833" weight="1" />
+      <edge source="Drake" target="Super Bowl" id="834" weight="1" />
+      <edge source="Drake" target="State Farm" id="835" weight="1" />
+      <edge source="Xbox" target="European Football" id="836" weight="1" />
+      <edge source="Xbox" target="Gaming" id="837" weight="6" />
+      <edge source="Xbox" target="Microsoft" id="838" weight="5" />
+      <edge source="Xbox" target="PS4" id="839" weight="2" />
+      <edge source="Edmonton Oilers" target="NHL" id="840" weight="1" />
+      <edge source="Ridesharing" target="Cannabis" id="841" weight="1" />
+      <edge source="Rascal Flatts" target="Country Music" id="842" weight="1" />
+      <edge source="Oil &amp; Gas" target="Academia" id="843" weight="1" />
+      <edge source="Oil &amp; Gas" target="Shell" id="844" weight="1" />
+      <edge source="AWS" target="Amazon" id="845" weight="10" />
+      <edge source="AWS" target="Amazon Prime" id="846" weight="2" />
+      <edge source="Nancy Pelosi" target="Crime" id="847" weight="1" />
+      <edge source="Startups" target="Entrepreneur" id="848" weight="1" />
+      <edge source="Startups" target="Academia" id="849" weight="3" />
+      <edge source="Startups" target="NYC" id="850" weight="3" />
+      <edge source="Startups" target="NASA" id="851" weight="1" />
+      <edge source="Startups" target="Space" id="852" weight="2" />
+      <edge source="Startups" target="SpaceX" id="853" weight="1" />
+      <edge source="Startups" target="Israel" id="854" weight="2" />
+      <edge source="Startups" target="Florida" id="855" weight="1" />
+      <edge source="Startups" target="Miami" id="856" weight="1" />
+      <edge source="Startups" target="Massachusetts" id="857" weight="2" />
+      <edge source="Startups" target="Series A" id="858" weight="3" />
+      <edge source="Startups" target="Microsoft" id="859" weight="4" />
+      <edge source="Startups" target="European Union" id="860" weight="1" />
+      <edge source="Startups" target="California" id="861" weight="1" />
+      <edge source="Startups" target="Business Leaders" id="862" weight="1" />
+      <edge source="Minnesota" target="Christmas" id="863" weight="1" />
+      <edge source="Minnesota" target="Holidays" id="864" weight="1" />
+      <edge source="Alabama" target="Steve Sarkisian" id="865" weight="1" />
+      <edge source="Alabama" target="Sports Figures" id="866" weight="1" />
+      <edge source="Alabama" target="Missouri" id="867" weight="1" />
+      <edge source="Independence Day" target="Holidays" id="868" weight="1" />
+      <edge source="Orlando Magic" target="NBA" id="869" weight="1" />
+      <edge source="Orlando Magic" target="Milwaukee Bucks" id="870" weight="1" />
+      <edge source="Orlando Magic" target="Florida" id="871" weight="1" />
+      <edge source="Orlando Magic" target="Orlando" id="872" weight="1" />
+      <edge source="Chicago Cubs" target="Baseball" id="873" weight="1" />
+      <edge source="Chicago Cubs" target="MLB" id="874" weight="1" />
+      <edge source="Chicago Cubs" target="Sports Figures" id="875" weight="1" />
+      <edge source="Supreme Court" target="Michigan" id="876" weight="1" />
+      <edge source="Supreme Court" target="Abortion" id="877" weight="1" />
+      <edge source="Series A" target="California" id="878" weight="1" />
+      <edge source="Ukraine" target="Russia-Ukraine War" id="879" weight="3" />
+      <edge source="Ukraine" target="Russia" id="880" weight="1" />
+      <edge source="Taiwan" target="Wildlife" id="881" weight="1" />
+      <edge source="Ohio" target="Indiana" id="882" weight="1" />
+      <edge source="Ohio" target="Indianapolis" id="883" weight="1" />
+      <edge source="Ohio" target="Golf" id="884" weight="1" />
+      <edge source="Ohio" target="Coronavirus" id="885" weight="1" />
+      <edge source="Diwali" target="Fashion" id="886" weight="1" />
+      <edge source="Diwali" target="Holidays" id="887" weight="1" />
+      <edge source="Apple" target="TV" id="888" weight="4" />
+      <edge source="Apple" target="Electronics" id="889" weight="11" />
+      <edge source="Apple" target="Black Friday" id="890" weight="2" />
+      <edge source="Apple" target="Shopping" id="891" weight="2" />
+      <edge source="Apple" target="Microsoft" id="892" weight="1" />
+      <edge source="Apple" target="5G" id="893" weight="2" />
+      <edge source="Apple" target="Academia" id="894" weight="1" />
+      <edge source="Apple" target="Apple   " id="895" weight="1" />
+      <edge source="Los Angeles Lakers" target="Anthony Davis" id="896" weight="1" />
+      <edge source="Los Angeles Lakers" target="Sports Figures" id="897" weight="1" />
+      <edge source="Los Angeles Lakers" target="NBA" id="898" weight="2" />
+      <edge source="Trump" target="China" id="899" weight="1" />
+      <edge source="Chicago White Sox" target="Baseball" id="900" weight="2" />
+      <edge source="Chicago White Sox" target="Houston Astros" id="901" weight="1" />
+      <edge source="Chicago White Sox" target="MLB" id="902" weight="2" />
+      <edge source="Chicago White Sox" target="Baltimore Orioles" id="903" weight="1" />
+      <edge source="Queen Elizabeth" target="Royal Family" id="904" weight="1" />
+      <edge source="Dallas Cowboys" target="Sports Figures" id="905" weight="1" />
+      <edge source="Canada" target="Academia" id="906" weight="1" />
+      <edge source="Canada" target="Montreal" id="907" weight="1" />
+      <edge source="Canada" target="Justin Trudeau" id="908" weight="1" />
+      <edge source="Canada" target="Immigration" id="909" weight="1" />
+      <edge source="Canada" target="Hockey" id="910" weight="1" />
+      <edge source="Canada" target="Soccer" id="911" weight="1" />
+      <edge source="Canada" target="Belgium" id="912" weight="1" />
+      <edge source="Canada" target="European Football" id="913" weight="1" />
+      <edge source="Canada" target="FIFA World Cup" id="914" weight="1" />
+      <edge source="Canada" target="Calgary" id="915" weight="1" />
+      <edge source="Spain" target="Barcelona" id="916" weight="1" />
+      <edge source="Spain" target="Formula 1" id="917" weight="1" />
+      <edge source="Academia" target="Entrepreneur" id="918" weight="1" />
+      <edge source="Academia" target="NYC" id="919" weight="1" />
+      <edge source="Academia" target="NBA" id="920" weight="1" />
+      <edge source="Academia" target="Montreal" id="921" weight="1" />
+      <edge source="Academia" target="Shell" id="922" weight="1" />
+      <edge source="Academia" target="College Sports" id="923" weight="3" />
+      <edge source="Academia" target="Coronavirus" id="924" weight="1" />
+      <edge source="Academia" target="Virginia" id="925" weight="2" />
+      <edge source="Academia" target="Tennessee" id="926" weight="1" />
+      <edge source="Academia" target="5G" id="927" weight="1" />
+      <edge source="Academia" target="Electronics" id="928" weight="1" />
+      <edge source="Academia" target="Colorado" id="929" weight="1" />
+      <edge source="Academia" target="Nvidia" id="930" weight="1" />
+      <edge source="Academia" target="North America" id="931" weight="1" />
+      <edge source="Academia" target="Africa" id="932" weight="2" />
+      <edge source="Academia" target="University of Illinois" id="933" weight="1" />
+      <edge source="Academia" target="Microsoft" id="934" weight="1" />
+      <edge source="Academia" target="Wells Fargo" id="935" weight="1" />
+      <edge source="Academia" target="China" id="936" weight="1" />
+      <edge source="Academia" target="Brad Pitt" id="937" weight="1" />
+      <edge source="Milwaukee Bucks" target="NBA" id="938" weight="1" />
+      <edge source="Milwaukee Bucks" target="Florida" id="939" weight="1" />
+      <edge source="Milwaukee Bucks" target="Orlando" id="940" weight="1" />
+      <edge source="Justin Trudeau" target="Immigration" id="941" weight="1" />
+      <edge source="Elephants" target="Wildlife" id="942" weight="1" />
+      <edge source="Soccer" target="Australia" id="943" weight="1" />
+      <edge source="Soccer" target="France" id="944" weight="1" />
+      <edge source="Soccer" target="Belgium" id="945" weight="1" />
+      <edge source="Soccer" target="European Football" id="946" weight="1" />
+      <edge source="Soccer" target="FIFA World Cup" id="947" weight="1" />
+      <edge source="LGBTQ" target="California" id="948" weight="1" />
+      <edge source="LGBTQ" target="Shopping" id="949" weight="1" />
+      <edge source="Long Beach" target="California" id="950" weight="1" />
+      <edge source="Columbus Blue Jackets" target="Hockey" id="951" weight="1" />
+      <edge source="Columbus Blue Jackets" target="NHL" id="952" weight="1" />
+      <edge source="9/11" target="TV" id="953" weight="1" />
+      <edge source="European Union" target="Cycling" id="954" weight="1" />
+      <edge source="European Union" target="Tour de France" id="955" weight="1" />
+      <edge source="European Union" target="France" id="956" weight="1" />
+      <edge source="European Union" target="India" id="957" weight="1" />
+      <edge source="Kansas City" target="Kansas City Chiefs" id="958" weight="1" />
+      <edge source="Kansas City" target="Kansas" id="959" weight="3" />
+      <edge source="Kansas City" target="Missouri" id="960" weight="3" />
+      <edge source="Josh Allen" target="Sports Figures" id="961" weight="3" />
+      <edge source="Josh Allen" target="Drew Brees" id="962" weight="1" />
+      <edge source="Josh Allen" target="San Francisco" id="963" weight="1" />
+      <edge source="Sports Figures" target="Lebron James" id="964" weight="2" />
+      <edge source="Sports Figures" target="Cristiano Ronaldo" id="965" weight="3" />
+      <edge source="Sports Figures" target="Anthony Davis" id="966" weight="1" />
+      <edge source="Sports Figures" target="NBA" id="967" weight="3" />
+      <edge source="Sports Figures" target="Johnny Manziel" id="968" weight="1" />
+      <edge source="Sports Figures" target="Boxing" id="969" weight="1" />
+      <edge source="Sports Figures" target="Mike Tyson" id="970" weight="1" />
+      <edge source="Sports Figures" target="Drew Brees" id="971" weight="1" />
+      <edge source="Sports Figures" target="San Francisco" id="972" weight="1" />
+      <edge source="Sports Figures" target="Steve Sarkisian" id="973" weight="2" />
+      <edge source="Sports Figures" target="Baseball" id="974" weight="3" />
+      <edge source="Sports Figures" target="MLB" id="975" weight="1" />
+      <edge source="Sports Figures" target="European Football" id="976" weight="1" />
+      <edge source="Sports Figures" target="UEFA" id="977" weight="1" />
+      <edge source="Sports Figures" target="Golf" id="978" weight="1" />
+      <edge source="Sports Figures" target="Deshaun Watson" id="979" weight="1" />
+      <edge source="Sports Figures" target="Ja Morant" id="980" weight="1" />
+      <edge source="Sports Figures" target="Roger Federer" id="981" weight="1" />
+      <edge source="Sports Figures" target="Washington Wizards" id="982" weight="1" />
+      <edge source="Sports Figures" target="Virat Kohli" id="983" weight="1" />
+      <edge source="Sports Figures" target="Dak Prescott" id="984" weight="1" />
+      <edge source="Sports Figures" target="Justin Verlander" id="985" weight="1" />
+      <edge source="Sports Figures" target="Eden Hazard" id="986" weight="1" />
+      <edge source="Sports Figures" target="T.J. Watt" id="987" weight="1" />
+      <edge source="Sports Figures" target="Novak Djokovic" id="988" weight="1" />
+      <edge source="Cricket" target="Indian Premier League" id="989" weight="1" />
+      <edge source="Cricket" target="European Football" id="990" weight="1" />
+      <edge source="Airbus" target="Business Leaders" id="991" weight="1" />
+      <edge source="Airbus" target="Space" id="992" weight="1" />
+      <edge source="Airbus" target="India" id="993" weight="1" />
+      <edge source="Roku" target="Walmart" id="994" weight="1" />
+      <edge source="Beauty" target="Style" id="995" weight="1" />
+      <edge source="Gaming" target="Bill Gates" id="996" weight="1" />
+      <edge source="Gaming" target="Business Leaders" id="997" weight="1" />
+      <edge source="Gaming" target="European Football" id="998" weight="1" />
+      <edge source="Gaming" target="Microsoft" id="999" weight="5" />
+      <edge source="Gaming" target="Playstation" id="1000" weight="3" />
+      <edge source="Gaming" target="PS4" id="1001" weight="2" />
+      <edge source="Gaming" target="Fortnite" id="1002" weight="2" />
+      <edge source="Gaming" target="Nintendo" id="1003" weight="2" />
+      <edge source="Gaming" target="Star Wars" id="1004" weight="1" />
+      <edge source="Gaming" target="Nvidia" id="1005" weight="1" />
+      <edge source="Bitcoin" target="Deloitte" id="1006" weight="1" />
+      <edge source="Bitcoin" target="Dogecoin" id="1007" weight="1" />
+      <edge source="Business Leaders" target="Bill Gates" id="1008" weight="1" />
+      <edge source="Business Leaders" target="NYC" id="1009" weight="3" />
+      <edge source="Business Leaders" target="Florida" id="1010" weight="1" />
+      <edge source="Business Leaders" target="Orlando" id="1011" weight="1" />
+      <edge source="Business Leaders" target="Orlando Bloom" id="1012" weight="1" />
+      <edge source="Business Leaders" target="Netflix" id="1013" weight="1" />
+      <edge source="Business Leaders" target="Coronavirus" id="1014" weight="1" />
+      <edge source="Business Leaders" target="Michigan" id="1015" weight="1" />
+      <edge source="Business Leaders" target="Space" id="1016" weight="2" />
+      <edge source="Business Leaders" target="Security Breach" id="1017" weight="2" />
+      <edge source="Business Leaders" target="Microsoft" id="1018" weight="3" />
+      <edge source="Business Leaders" target="Amazon" id="1019" weight="1" />
+      <edge source="Business Leaders" target="Amazon Prime" id="1020" weight="1" />
+      <edge source="Russia" target="Russia-Ukraine War" id="1021" weight="3" />
+      <edge source="Warner Bros" target="TV" id="1022" weight="1" />
+      <edge source="Warner Bros" target="Harry Potter" id="1023" weight="1" />
+      <edge source="Houston Texans" target="Houston" id="1024" weight="1" />
+      <edge source="Orlando Bloom" target="Florida" id="1025" weight="1" />
+      <edge source="Orlando Bloom" target="Orlando" id="1026" weight="1" />
+      <edge source="Barcelona" target="Formula 1" id="1027" weight="1" />
+      <edge source="Media" target="Documentaries" id="1028" weight="1" />
+      <edge source="Media" target="Security Breach" id="1029" weight="1" />
+      <edge source="HBO" target="TV" id="1030" weight="2" />
+      <edge source="Indiana" target="Indianapolis" id="1031" weight="1" />
+      <edge source="Indiana" target="Washington" id="1032" weight="1" />
+      <edge source="Kelly Clarkson" target="TV" id="1033" weight="1" />
+      <edge source="Netflix" target="TV" id="1034" weight="4" />
+      <edge source="Netflix" target="Bollywood" id="1035" weight="1" />
+      <edge source="March Madness" target="NBA" id="1036" weight="1" />
+      <edge source="Nintendo" target="Star Wars" id="1037" weight="1" />
+      <edge source="Amazon Prime" target="Amazon" id="1038" weight="7" />
+      <edge source="Amazon Prime" target="Microsoft" id="1039" weight="4" />
+      <edge source="Amazon Prime" target="Washington" id="1040" weight="1" />
+      <edge source="5G" target="Social-ESG" id="1041" weight="1" />
+      <edge source="5G" target="Electronics" id="1042" weight="2" />
+      <edge source="5G" target="India" id="1043" weight="1" />
+      <edge source="5G" target="FinTech" id="1044" weight="1" />
+      <edge source="5G" target="Security Breach" id="1045" weight="1" />
+      <edge source="San Francisco" target="Drew Brees" id="1046" weight="1" />
+      <edge source="Washington Wizards" target="NBA" id="1047" weight="1" />
+      <edge source="NBA" target="Anthony Davis" id="1048" weight="1" />
+      <edge source="NBA" target="Chicago Bulls" id="1049" weight="1" />
+      <edge source="NBA" target="New York Knicks" id="1050" weight="1" />
+      <edge source="NBA" target="Miami Heat" id="1051" weight="1" />
+      <edge source="NBA" target="NHL" id="1052" weight="1" />
+      <edge source="NBA" target="Hockey" id="1053" weight="1" />
+      <edge source="NBA" target="Dallas Mavericks" id="1054" weight="1" />
+      <edge source="NBA" target="Cleveland Cavaliers" id="1055" weight="1" />
+      <edge source="NBA" target="Philadelphia 76ers" id="1056" weight="1" />
+      <edge source="NBA" target="Pennsylvania" id="1057" weight="1" />
+      <edge source="NBA" target="Florida" id="1058" weight="1" />
+      <edge source="NBA" target="Orlando" id="1059" weight="1" />
+      <edge source="NBA" target="Phoenix Suns" id="1060" weight="1" />
+      <edge source="NHL" target="Hockey" id="1061" weight="10" />
+      <edge source="NHL" target="Chicago Blackhawks" id="1062" weight="1" />
+      <edge source="NHL" target="Miami Heat" id="1063" weight="1" />
+      <edge source="NHL" target="California" id="1064" weight="1" />
+      <edge source="Louisiana" target="College Sports" id="1065" weight="1" />
+      <edge source="Louisiana" target="Baseball" id="1066" weight="1" />
+      <edge source="UN Climate Change Conference" target="Coronavirus" id="1067" weight="1" />
+      <edge source="Maryland" target="College Sports" id="1068" weight="1" />
+      <edge source="Maryland" target="France" id="1069" weight="1" />
+      <edge source="Israel" target="Space" id="1070" weight="1" />
+      <edge source="Apple   " target="TV" id="1071" weight="1" />
+      <edge source="Belgium" target="European Football" id="1072" weight="1" />
+      <edge source="Belgium" target="FIFA World Cup" id="1073" weight="1" />
+      <edge source="Style" target="Zara" id="1074" weight="1" />
+      <edge source="Style" target="Fashion" id="1075" weight="2" />
+      <edge source="Style" target="Australia" id="1076" weight="1" />
+      <edge source="Silicon Valley" target="Australia" id="1077" weight="1" />
+      <edge source="Halloween" target="Holidays" id="1078" weight="1" />
+      <edge source="Olympics 2024" target="Olympics" id="1079" weight="1" />
+      <edge source="Coronavirus" target="Private Equity" id="1080" weight="1" />
+      <edge source="Coronavirus" target="CVS" id="1081" weight="2" />
+      <edge source="Coronavirus" target="Walgreens" id="1082" weight="1" />
+      <edge source="Coronavirus" target="Walmart" id="1083" weight="1" />
+      <edge source="Coronavirus" target="Pennsylvania" id="1084" weight="1" />
+      <edge source="Coronavirus" target="Aviation" id="1085" weight="1" />
+      <edge source="Coronavirus" target="Data" id="1086" weight="1" />
+      <edge source="Kansas" target="Kansas City Chiefs" id="1087" weight="1" />
+      <edge source="Kansas" target="Missouri" id="1088" weight="3" />
+      <edge source="Green Energy" target="DNC" id="1089" weight="1" />
+      <edge source="Green Energy" target="Atlanta" id="1090" weight="1" />
+      <edge source="Kansas City Chiefs" target="Missouri" id="1091" weight="1" />
+      <edge source="SpaceX" target="NASA" id="1092" weight="2" />
+      <edge source="SpaceX" target="Space" id="1093" weight="2" />
+      <edge source="Indian Premier League" target="European Football" id="1094" weight="1" />
+      <edge source="Jill Biden" target="FLOTUS" id="1095" weight="2" />
+      <edge source="Congress" target="Australia" id="1096" weight="1" />
+      <edge source="San Diego" target="California" id="1097" weight="3" />
+      <edge source="San Diego" target="College Sports" id="1098" weight="1" />
+      <edge source="Olympics" target="Colorado" id="1099" weight="1" />
+      <edge source="Cuba" target="Baseball" id="1100" weight="1" />
+      <edge source="Cuba" target="Houston Astros" id="1101" weight="1" />
+      <edge source="Cuba" target="MLB" id="1102" weight="1" />
+      <edge source="Cuba" target="Caribbean Islands" id="1103" weight="1" />
+      <edge source="Pennsylvania" target="Philadelphia 76ers" id="1104" weight="1" />
+      <edge source="Tweets" target="Missouri" id="1105" weight="1" />
+      <edge source="Electronics" target="Black Friday" id="1106" weight="2" />
+      <edge source="Electronics" target="Shopping" id="1107" weight="4" />
+      <edge source="Electronics" target="India" id="1108" weight="1" />
+      <edge source="WWE" target="Wrestling" id="1109" weight="4" />
+      <edge source="Guinness World Records" target="Bollywood" id="1110" weight="1" />
+      <edge source="Walgreens" target="CVS" id="1111" weight="1" />
+      <edge source="Walgreens" target="Walmart" id="1112" weight="1" />
+      <edge source="Zcash" target="Altcoins" id="1113" weight="1" />
+      <edge source="Boxing" target="Mike Tyson" id="1114" weight="1" />
+      <edge source="Walmart" target="CVS" id="1115" weight="1" />
+      <edge source="Black Friday" target="Shopping" id="1116" weight="3" />
+      <edge source="TV" target="The Bachelor" id="1117" weight="1" />
+      <edge source="TV" target="Black-ish" id="1118" weight="1" />
+      <edge source="TV" target="Game of Thrones" id="1119" weight="2" />
+      <edge source="TV" target="Saturday Night Live" id="1120" weight="2" />
+      <edge source="TV" target="Disney" id="1121" weight="1" />
+      <edge source="TV" target="Katy Perry" id="1122" weight="1" />
+      <edge source="TV" target="Lawsuits" id="1123" weight="1" />
+      <edge source="TV" target="The Walking Dead" id="1124" weight="1" />
+      <edge source="TV" target="The Masked Singer" id="1125" weight="1" />
+      <edge source="NYC" target="Entrepreneur" id="1126" weight="1" />
+      <edge source="NYC" target="Microsoft" id="1127" weight="1" />
+      <edge source="NYC" target="Amazon" id="1128" weight="1" />
+      <edge source="NYC" target="BMW" id="1129" weight="1" />
+      <edge source="NYC" target="Orlando" id="1130" weight="1" />
+      <edge source="NYC" target="Florida" id="1131" weight="1" />
+      <edge source="Lufthansa" target="Aviation" id="1132" weight="1" />
+      <edge source="Lufthansa" target="Boeing" id="1133" weight="1" />
+      <edge source="Amazon" target="Microsoft" id="1134" weight="4" />
+      <edge source="Amazon" target="Washington" id="1135" weight="1" />
+      <edge source="State Farm" target="Super Bowl" id="1136" weight="1" />
+      <edge source="Washington" target="Microsoft" id="1137" weight="1" />
+      <edge source="Shopping" target="California" id="1138" weight="1" />
+      <edge source="Disney" target="Katy Perry" id="1139" weight="1" />
+      <edge source="Formula 1" target="Aston Martin" id="1140" weight="1" />
+      <edge source="Traffic" target="Australia" id="1141" weight="1" />
+      <edge source="Commonwealth Games" target="Australia" id="1142" weight="1" />
+      <edge source="Colorado" target="College Sports" id="1143" weight="1" />
+      <edge source="Volkswagen" target="Porsche" id="1144" weight="1" />
+      <edge source="Softball" target="Baseball" id="1145" weight="1" />
+      <edge source="Softball" target="College Sports" id="1146" weight="1" />
+      <edge source="Caribbean Islands" target="Baseball" id="1147" weight="1" />
+      <edge source="Caribbean Islands" target="Houston Astros" id="1148" weight="1" />
+      <edge source="Caribbean Islands" target="MLB" id="1149" weight="1" />
+      <edge source="Chicago Blackhawks" target="Hockey" id="1150" weight="1" />
+      <edge source="Tour de France" target="Cycling" id="1151" weight="1" />
+      <edge source="Tour de France" target="France" id="1152" weight="1" />
+      <edge source="Miami Heat" target="Hockey" id="1153" weight="1" />
+      <edge source="Entrepreneur" target="In Memoriam" id="1154" weight="1" />
+      <edge source="Atlanta Braves" target="MLB" id="1155" weight="2" />
+      <edge source="Atlanta Braves" target="Baseball" id="1156" weight="2" />
+      <edge source="Atlanta Braves" target="Atlanta" id="1157" weight="2" />
+      <edge source="Atlanta Braves" target="Washington Nationals" id="1158" weight="1" />
+      <edge source="Microsoft" target="European Football" id="1159" weight="1" />
+      <edge source="Microsoft" target="PS4" id="1160" weight="2" />
+      <edge source="Microsoft" target="Aviation" id="1161" weight="1" />
+      <edge source="Microsoft" target="Boeing" id="1162" weight="1" />
+      <edge source="Microsoft" target="North Carolina" id="1163" weight="1" />
+      <edge source="Florida" target="Miami" id="1164" weight="2" />
+      <edge source="Florida" target="Orlando" id="1165" weight="3" />
+      <edge source="Florida" target="Pennsylvania State University" id="1166" weight="1" />
+      <edge source="Florida" target="DNC" id="1167" weight="1" />
+      <edge source="Australian Open" target="Australia" id="1168" weight="1" />
+      <edge source="Boeing" target="Aviation" id="1169" weight="3" />
+      <edge source="Boeing" target="Space" id="1170" weight="1" />
+      <edge source="China" target="Law Enforcement" id="1171" weight="1" />
+      <edge source="China" target="Philippines" id="1172" weight="1" />
+      <edge source="Ja Morant" target="Lebron James" id="1173" weight="1" />
+      <edge source="New York Yankees" target="Baseball" id="1174" weight="2" />
+      <edge source="New York Yankees" target="Houston Astros" id="1175" weight="1" />
+      <edge source="New York Yankees" target="MLB" id="1176" weight="2" />
+      <edge source="US Air Force" target="Security Breach" id="1177" weight="1" />
+      <edge source="The Walking Dead" target="Lawsuits" id="1178" weight="1" />
+      <edge source="European Football" target="UEFA" id="1179" weight="1" />
+      <edge source="European Football" target="FIFA World Cup" id="1180" weight="1" />
+      <edge source="California" target="Hockey" id="1181" weight="1" />
+      <edge source="California" target="College Sports" id="1182" weight="1" />
+      <edge source="Kamala Harris" target="Africa" id="1183" weight="1" />
+      <edge source="Pennsylvania State University" target="Miami" id="1184" weight="1" />
+      <edge source="Law Enforcement" target="Philippines" id="1185" weight="1" />
+      <edge source="Baseball" target="College Sports" id="1186" weight="1" />
+      <edge source="Baseball" target="MLB" id="1187" weight="14" />
+      <edge source="Baseball" target="Houston Astros" id="1188" weight="4" />
+      <edge source="Baseball" target="Atlanta" id="1189" weight="4" />
+      <edge source="Baseball" target="Washington Nationals" id="1190" weight="1" />
+      <edge source="Baseball" target="San Diego Padres" id="1191" weight="2" />
+      <edge source="Baseball" target="Baltimore Orioles" id="1192" weight="1" />
+      <edge source="Halsey" target="Juice Wrld" id="1193" weight="1" />
+      <edge source="France" target="Cycling" id="1194" weight="1" />
+      <edge source="France" target="Australia" id="1195" weight="1" />
+      <edge source="Virgin Galactic" target="Space" id="1196" weight="2" />
+      <edge source="Atlanta" target="MLB" id="1197" weight="3" />
+      <edge source="Atlanta" target="Washington Nationals" id="1198" weight="1" />
+      <edge source="Aviation" target="Space" id="1199" weight="1" />
+      <edge source="Aerospace" target="Space" id="1200" weight="1" />
+      <edge source="Bollywood" target="India" id="1201" weight="1" />
+      <edge source="Kate Hudson" target="Fashion" id="1202" weight="1" />
+      <edge source="Security Breach" target="NSA" id="1203" weight="1" />
+      <edge source="Baltimore Orioles" target="MLB" id="1204" weight="1" />
+      <edge source="Space" target="NASA" id="1205" weight="14" />
+      <edge source="Prince Philip" target="Royal Family" id="1206" weight="1" />
+      <edge source="Royal Family" target="Princess Diana" id="1207" weight="1" />
+      <edge source="Australia" target="Fashion" id="1208" weight="1" />
+      <edge source="Australia" target="Climate Change" id="1209" weight="1" />
+      <edge source="San Diego Padres" target="MLB" id="1210" weight="2" />
+      <edge source="Washington Nationals" target="MLB" id="1211" weight="1" />
+      <edge source="Fashion" target="Holidays" id="1212" weight="1" />
+      <edge source="Christmas" target="Holidays" id="1213" weight="1" />
+      <edge source="Houston Astros" target="MLB" id="1214" weight="4" />
+      <edge source="Raleigh" target="North Carolina" id="1215" weight="2" />
+      <edge source="Brexit" target="World Politics" id="1216" weight="1" />
+    </edges>
+  </graph>
+</gexf>
