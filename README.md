@@ -1,6 +1,11 @@
 # ComplexNetworksCodebase
 
-This repository contains 2 Python scripts, **`extract_data.py` ** which collects the data using the Perigon API and **`network_analysis.py`**, which consolidates various network analysis functions.
+This repository contains:
+1) 2 Python scripts:
+    - `extract_data.py` which collects the data using the Perigon API .
+    - `network_analysis.py` which consolidates various network analysis functions.
+2) A CSV files containing the communities found using the Louvain method for   the full graph originally provided in this repository.
+3) Folders containing the results after running the scripts.
 
 ## Requirements
 
@@ -34,3 +39,4 @@ pip install networkx matplotlib numpy scikit-learn python-louvain
 ``` python3 network_analysis.py ```
 
 - Results are saved inside folder called `analysed_topic_data` and the graphs are saved in `topic_topic_graph`.
+- The exact Louvain communities are not printed out.
